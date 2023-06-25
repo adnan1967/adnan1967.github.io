@@ -1,0 +1,2311 @@
+
+{"Internal_Medicine":[
+    {
+    "CorrectAnswers": 1,
+    "text": "A 64 year old male, 3 days after urgent surgery for colon adenocarcinoma, develops worsening dyspnea and hypoxemia. On examination -room saturation 92%, blood pressure 120/80, pulse 105/min, creatinine 0.9 mg/dl, with no other abnormal clinical findings.\n\rWhat is the most appropriate next diagnostic step?",
+    "options":[
+       "Abdominal CT", 
+       "Lung CT angiography",  
+       "MRCP", 
+       "Pulmonary function test",  
+       "Cardiac thallium scan"]  
+  },
+  {
+  "CorrectAnswers": 2,
+  "text": "A 63 years old male complains of gradual onset of malaise and weight loss on examination- splenomegaly, cytogenetic analysis BCR/ABL 1 gene.\n\rWhich of the following is correct?",
+  "options":[
+    "Bone marrow fibrosis rules out the diagnosis ",
+    "On CBC -25% of WBC will be blasts ",
+    "Treatment includes tyrosine kinase inhibitor (TKI) imantinib mesylate (Gleevec)",
+    "Leukopenia is probable finding" ,
+   "Allogenic stem cell transplantation (SCT) is contraindicated in this disease"] 
+},
+{
+  "CorrectAnswers": 1,
+  "text": "60 years old female is diagnosed with chronic lymphocytic leukemia(CLL) stage 0 she is admitted due to dyspnea. General malaise and dizziness. On examination-mild splenomegaly without lymphadenopathy with no other abnormal findings labs hemoglobin 8.0g/ dl reticulocytes 4% ,platelets 250,000, total bilirubin 6mg/dl, direct bilirubin 2mg /dl, lactate dehydrogenase (LDH) 356mg/dl(norm <250).\n\rWhat is the most likely etiology of the anemia?",
+  "options":[
+    "Hypersplenism", 
+    "Autoimmune hemolytic anemia (AIHA) ",
+    "Thrombotic thrombocytopenic purpura",
+    "Iron deficiency anemia", 
+    "Immune thrombocytopenic purpura"] 
+},
+  {
+    "CorrectAnswers": 1,
+    "text": "A 31 years old male arrive to ER complaining of fever with pain and erythema of the eyes. In the past month he complains of painful genital and oral ulcers  Knee pain and Fever. In the past week bilateral eye pain and erythema with photophobia. On examination fever 38c eye slit lamp bilateral WBC at the anterior chamber. Oral and genital ulcers, swelling and erythema of knees. With no other abnormal findings.\n\rWhich of the following most likely diagnosis?",
+    "options":[
+      "Bechet D.", 
+      "crohn`s D", 
+      "Sarcoidosis", 
+      "Systemic lupus erythematosus ",
+      "Systemic herpes simplex infection"] 
+  },
+  {
+    "CorrectAnswers": 3,
+    "text": "A 72 year old male status post anterior wall myocardial infraction 10 years ago. He now complains of increasing dyspnea and is treated with bisoprolol and aspirin on examination normal vital signs. Rales over the lung bases . echocardiography -left ventricular ejection fraction (LVEF) 38%. Labs normal CBC, creatinine 0.9mg/dl, urea 35 mg/dl, sodium 136, potassium 4.5.\n\rWhich of the following is the most appropriate treatment?",
+    "options":[
+      "Implant cardiac re-synchronization treatment (CRT)",  
+      "Add digoxin",
+      "Automatic implantable cardiac defibrillator (AICD)",
+      "Add furosemide and ACE inhibitor",
+      "Add spironolactone"] 
+},
+  {
+    "CorrectAnswers": 0,
+    "text": "A 75 year-old female is admitted to evaluate an episode of syncope during her morning walk. She has hyperlipidemia and is treated with simvastatin alone. Below is the ER ECG.\n\rWhat is the most appropriate next step?",
+    "options": [
+      "Admit and refer to pacemaker implantation ASAP.", 
+      "Refer to 24 hours Holter test. ",
+      "Recommend 30-day heart monitoring by implantable monitor.",  
+      "Refer to Tilt test. ",
+      "Admit for observation alone."]  
+  },
+  {
+    "CorrectAnswers": 4,
+    "text": "A 35 years old female complains of fatigue weight gain despite attempts to avoid it. Losing hair change of voice and hand tingling.\n\rWhich of the following can explain her symptoms?",
+    "options":[
+      "normal tsh high t4 high t3", 
+      "d high t4 high t3 ",
+      "low tsh hight t3 hight t4", 
+      "normal tsh low t3 normal t4", 
+      "high tsh low t3 low t4 "]
+  },
+  {
+    "CorrectAnswers": 3,
+    "text": "An 82 years old male with decreased cognitive status, ischemic heart disease, diabetes, hypertension. He fell at home and was found after a day laying on the floor. Labs creatinine 2.5mg/dl (it was 1.3 year ago ), urea 70mg/dl.\n\rUrinary stick is positive for hemoglobin but sedimentation demonstration only low amount of RBC.\n\rWhich of the following will support the diagnosis?",
+    "options":[
+      "FeNa 2.5%", 
+      "Dysmorphic RBC on urine sedimentation",
+      "Numerous urinary granular casts. ",
+      "Elevated serum creatinine phosphokinase", 
+      "Elevated serum lactate dehydrogenase. "]
+  },
+  {
+    "CorrectAnswers": 1,
+    "text": "Which of the following symptoms is suggestive of ischemic heart disease?\n\r ",
+    "options":[    
+      "Lower and middle abdominal pain ",
+      "Epigastric pain that worsens with mild exercise",  
+      "Stabbing pain radiating to the trapezius  ",
+      "Dyspnea that improve while climbing steps  ",
+      "Upper jaw pain  "]
+  },
+  
+  {  
+    "CorrectAnswers": 1,
+    "text":"Which of the following is the most early symptoms of patient with pulmonary hypertension?",
+    "options":[
+      "Cough",  
+      "Exercise dyspnea", 
+      "Syncope ",
+      "Chest pain",  
+      "Peripheral edema" ]
+  },
+  {
+    "CorrectAnswers": 2,
+    "text": "A 21 year old male had fever and throat pain 3 weeks ago. He now complains of general malaise, headache and weight loss, his blood pressure is high and he has leg edema. Labs - creatinine 2.4 mg/dl , increased anti- streptolysin O (ASLO), low C3 complement level, positive rheumatoid factor (RF), urinary stick -WBC++, protein++, RBC++, and RBC casts on microscopy.\n\rWhat is the next step in management?",
+    "options":[
+      "Cyclophosphamide",  
+      "Enalapril ",
+      "Penicillin ",
+      "Dialysis  ",
+      "Cyclosporin "]
+  },
+
+  {  
+    "CorrectAnswers": 2,
+    "text": "48 years female undergoes evaluation for increase dyspnea in the past 3 months, four years ago she was diagnosed with limited cutaneous systemic sclerosis and Raynaud phenomenon and Gastroesophageal reflux disease, she is treated with Nifedipine and Omperazole.\n\rOn examination bilateral equal breathing without wheezes or rales Heart sound : wide split S2 : accentuated P2.\n\r Chest x-ray :no abnormal finding.\n\rWhat is the most likely etiology of this symptoms?",
+    "options":[
+      "interstitial lung disease",  
+      "myocardial fibrosis  ",
+      "pulmonary artery hypertension",  
+      "venous thromboembolic disease", 
+      "sarcoidosis" ]
+  },
+  {
+    "CorrectAnswers": 3,
+    "text": "45 years old healthy male admitted due to distended abdomen in the past few, months, on examination :ascites. Labs :albumin 3.6, protein 6.7, in ascitic fluid aspiration -albumin 2.0, protein 2.4.\n\rWhich likely the most likely  etiology?",
+    "options":[
+     "peritoneal carcnomatosis",  
+     "tuberculosis  ",
+     "nephritic syndrome",  
+     "liver cirrhosis  ",
+     "constrictive pericarditis"]
+  },
+
+  {
+    "CorrectAnswers": 3,
+    "text": "A 55 year old male is treated for the past week with ceforal (cefalexin) for leg cellulitis. He now presents with fever and diffuse maculopapular rash. Labs - creatinine 2.4 mg/dl (baseline is 0.9) and absolute eosinophilia 2000. Urine sedimentation -white and red blood cells casts.\n\rWhich of the following is the most appropriate treatment at this time?",
+    "options":[  
+      "IV steroids ASAP", 
+      "urgent dialysis",  
+      "cyclophosphomide", 
+      "stop ceforal",  
+      "cyclosporine"]  
+  },
+
+  {
+    "CorrectAnswers": 1,
+    "text": "34 years old healthy female without medication arrives to the ER complaining of fever, chills and left flank pain, she also mentions dysuria in the last two days there is known anatomical variation or recent antibiotic treatment.\n\rWhich of the following is the most common pathogen in such cases?",
+    "options":[
+     "citrobacter freundii", 
+     "escherichia coli",  
+     "enterococcus faecium",  
+     "staphylococcus saprophyticus",  
+     "pseudomonas aeruginosa"]  
+  },
+
+  {
+    "CorrectAnswers": 2,
+    "text": "65 years old male has arterial hypertension, stable ischemic heart disease and controlled diabetes, recently complains of orthostatic hypotension without other complaints or symptoms, CBC, electrolytes and renal function are all normal.\n\rWhich of the following is the most likely etiology?",
+    "options":[
+     "RAMIPRIL (ACE inhibitor ) -",  
+     "BISOPROLOL ( beta blocker)",
+     "DOXAZOCIN ( alpha blocker)-",  
+     "EMPAGLIFLOZIN ( sglt2 inhibitor )",  
+     "ASPIRIN"]
+  },
+
+  {
+    "CorrectAnswers": 3,
+      "text": "A 41 year -oldDmale is evaluated for sudden episodes of increased blood pressure accompanied by sweating, flushing, headache, and palpations. Each episode lasts for about half an hour and spontaneously resolves.\n\rWhich of the following is the most appropriate next step?",
+      "options":[
+      "Urine collection for catecholamines and metanephrines.",  
+      "Non-contrast head CT.",  
+      "Beta blockers treatment trial.",  
+      "Benzodiazepines treatment trial.", 
+      "Synacthen ACTH test." ]
+  },
+
+  {
+    "CorrectAnswers": 3,
+    "text":"A 40 year-old drug abuse male is admitted due to fever of 38.5 celsius and no other symptoms. Chest x-ray as part of the evaluation reveals left lower lobe infiltrate. Echocardiography -large tricuspid valve vegetation. Labs -positive rheumatoid factor. Blood cultures are pending.\n\rWhich of the following pathogens is most likely to grow on blood cultures?",
+    "options":[
+    "Enterococcus faecalis.", 
+    "Streptococcus gallolyticus.", 
+    "Coagulase-negative staphylococci." , 
+    "Staphylococcus aureus" ,
+    "Cardiobacterium hominis."]
+  },
+
+ { 
+    "CorrectAnswers": 2,
+    "text": "A 45 years old female complains of symmetric wrists and 1-3 metacarpophalangeal (MCP) and proximal interphalangeal (PIP) joints pain. In the past 6 months the pain increased and is accompanied by morning stiffness of over two hours. She denies any other systemic symptoms. Labs -Increased CRP -with positive RF and anti-CCP.\n\rWhich of the following is the mainstay treatment in the patient?",
+    "options":[
+      "NSAIDs.", 
+      "Glucocorticoids.", 
+      "Methotrexate.",
+      "Rituximab.", 
+      "Sulfasalazine." ]
+ },
+
+ {
+    "CorrectAnswers": 2,
+    "text":"A 28-years old vegan female is evaluated due to increasing fatigue over the past month. Lab- hemoglobin 5g/dl, hematocrit 25%, MCV 98, Reticulocytes count 25%.\n\rWhich of the following is the most likely etiology of her anemia?",
+      "options":[
+      "Vitamin B12 deficiency.",  
+      "Severe iron deficiency.", 
+      "Haemolysis.",
+      "Lack of erythropoietin production.", 
+      "Bone marrow infiltration."]
+  },
+
+  {
+    "CorrectAnswers": 0,
+    "text": "A 58 years old healthy male complains of fever, headache, and general malaise a week after returning from a business trip to Kenya (Africa). On examination at clinic - fever 39.5, blood pressure 120/70, pulse 88/min regular, fully alert, with no other finding.\n\rWhat is the most appropriate next step?", 
+    "options":[  
+    "Refer to the ER to test for thick drop and malaria antigen", 
+      "Blood test for venereal disease research laboratory (VDRL)",
+      "Clinical follow up , most probably a self-limited viral disease",  
+      "Broad spectrum antibiotic treatment and ambulatory clinical follow up", 
+      "Prophylactic treatment for Neisseria meningitides and referral to isolated admission" ]
+  },
+
+  {  
+    "CorrectAnswers": 1,
+    "text": "Which of the following is considered an indication for urgent dialysis?",
+    "options":[
+      "hypokalemia",
+      "uremic pericarditis",  
+      "low blood pressure",
+      "metabolic alkalosis", 
+      "hypernatremia"]
+  },
+
+  {
+    "CorrectAnswers": 3,
+    "text": "A 67 years old healthy male complains of increasing fatigue and worsening chronic back pain in the past 3 months. The only medication he takes for pain is acetaminophen. On examination - tenderness over the lumbar spine and pitting edema +1 at the legs, no other abnormal finding spine x-ray - compression fracture of L1. Labs - haemoglobin 8g/dl, wbc 4000, platelets 300000, albumin 2.7 g/dl, total protein 9.2 g/dl, calcium 13.4 mg/dl,creatinine 2.1 mg/dl.\n\rWhich of the following test will promote the diagnosis?",
+    "options":[
+      "Bone scan",
+      "Prostate specific antigen (PSA) levels", 
+      "Serum parathyroid hormone (PTH) level",  
+      "Serum protein electrophoresis and free light chains", 
+      "Echocardiogram "]
+  },
+
+  {
+"CorrectAnswers": 4,
+"text": "A 32 years old man complains of episodic fever, weight loss and night sweats. On examination -bilateral cervical and axillary lymphadenopathy, up to 2 cm, fixed but non-tender, chest X-ray- mediastinal lymphadenopathy.\n\rWhat is the most likely diagnosed?",
+"options":[
+  "H1N1flu",
+  "HIVinfection", 
+  "Pneumonia", 
+  "EBV/CMVinfection", 
+  "hodgkin`s disease"  ]
+  },
+
+  {
+    "CorrectAnswers": 0,
+    "text": "A 63 years old male with hypertension complains of dyspnea a week after ablation for atrial fibrillation. On examination- pulse 112/min, blood pressure 88/58, pulsus paradoxus 16, breaths 18/min, room air saturation 96%, distended jugular veins, distant heart sounds, normal breathing sounds, ECG: sinus tachycardia.\n\rWhich of the following diagnoses is the most likely?",
+    
+    "options":[
+      "cardiactamponade",
+      "pulmonary vein stenosis",
+      "pulmonary embolism", 
+      "atrio-esophageal fistula",
+      "Retroperitoneal bleeding" ]
+  },
+
+  {
+    "CorrectAnswers": 3,
+    "text": "A 60 year old male with morbid obesity and uncontrolled hypertension and diabetes is brought to the ER due to epigastric pain and significant malaise lasting 30 minutes. On examination -blood pressure 85/40, pulse 50/min regular, bilateral jugular distention, normal breathing sounds. ECG -ST elevation at leads ||, |||, AVF.\n\rAll of the following are acceptable treatment, except?",
+    "options":[
+      "immediate catheterization and primary PCI", 
+      "heparin",  
+      "aspirin", 
+      "nitrates", 
+      "clopidogrel"]
+  },
+
+  {
+  "CorrectAnswers": 0,
+  "text": "A 35 year old chronic alcoholic and drug abuse male arrives to the ER complaining of right upper quadrant abdominal pain and fever of 38c. on examination significant jaundice, distended abdomen, diffuse tenderness, mild amount of ascites. Labs -bilirubin 10 mg% (normal <1), pt 20 seconds (normal <13). Discriminating factor 47.\n\rWhat is the recommended treatment?",
+  "options":[
+    "Glucocortecosteroids (prednisone)",  
+    "penecillin", 
+    "furosemide",
+    "penroxiphylline", 
+    "beta blockers" ]
+  },
+
+  {
+    "CorrectAnswers": 3,
+    "text": "A 29 year old Male undergoes for anemia identified on blood tests. The patient weakness and tingling of the hands and feet in the past several months. Labs - positive for tissue transglutaminase (tTG) IgA antibodies.\n\rWhich of the following will be most diagnostic?",
+    "options":[  
+      "brain MRI", 
+      "serum copper and b12 level", 
+      "IV contrast chest CT",
+      "gastroscopy",
+      "EMG" ]
+  },
+
+  {
+    "CorrectAnswers": 3,
+    "text": "A 60 year old Male, heavy smoker for decades, describes increasing dyspnea on exercise over the past several months with frequent episodes of productive cough. On spirometry- FEV1 35% without improvement following bronchodilators. FVC 60%. Below is the spirometry diagram.\n\rWhich of the following is the most likely diagnosis?\n\r( spirometry )",
+  "options":[  
+    "Pulmonary fibrosis",  
+    "Morbid obesity",
+    "acute asthma",
+    "pulmonary emphysema",  
+    "Myasthenia gravis"]
+  },
+
+  {
+    "CorrectAnswers": 0,
+    "text": "Which of the following bacteria is most common in spine osteomyelitis?",
+    "options":[
+      "Staphylococcus aureusa",
+      "Streptococcus pneumonia",
+      "Coxiella burnetii",
+      "Pseudomonas aeruginosa", 
+      "Pertussis"]
+  },
+
+  {
+    "CorrectAnswers": 0,
+    "text": "44 year old healthy male is diagnosed  with nephrotic syndrome.\n\rKidney biopsy demonstrates evidence of membranous nephropathy.\n\rHe is not taking any Medications. On examinations- no abnormal Finding except Peripheral 1+ edema. LABS -Creatinine 0.8 mg /dl, total cholesterol 310 mg/dl, albumin 3g/dl, Antinuclear Antibodies (ANA) negative, Hepatitis B surface Ag and Ab negative, hepatitis C Ab negative.\n\r24 hours urinary protein 6.5g. Renal ultrasound is normal.\n\rWhich of the Following will be the most appropriate treatment at this time?",
+    "options":[  
+      "ACE inhibitors and statins.",
+      "Glucoscorticesteroids.", 
+      "Tenofovir.", 
+      "CYCLOSPORINE.", 
+      "follow-up alone" ]
+  },
+
+  {
+    "CorrectAnswers": 0,
+    "text": "52 year old Male Complains of severe left toe pain that started acutely a few hours prior to his arrival to the ER. Comorbidities - Diabetes , hypertension, chronic Renal failur with Creatinine about 1.8 mg/dL.\n\rOn Examination: Red, swollen, warm, and tender left first metatarsopalageal joints.\n\rDiagnostic joint Aspiration - 22,000 WBC, Polarized light microscope-Acute gouty arthritis.\n\rWhich of the following is the most appropriate treatment at this time?",
+    "options":[
+        "Intra articular  steroids injection.",  
+        "High dose ibuprofen twice daily.", 
+        "Allopurinol 100mg once a day.", 
+        "Anakinra.", 
+        "IV cefotaxime." ]
+  },
+
+  {
+    "CorrectAnswers": 0,
+    "text": "A 50 year old female undergoes gastroscopy due to epigastric pain and diarrhea multiple Gastric ulcers are seen with no evidence of helicobacter pylori infection she denies any use of NSAIDs there is no improvement with proton pump inhibitors.\n\rWhich of the following is correct? ",
+    "options":[
+      "measure fasting serum gastrin levels a week  after discontinuing PPI", 
+      "treatment with h2 blockers is more effective than PPI",
+      "for diagnosis fasting serum gastrin must be 5 times the norm", 
+      "can be associated with lung malignancy",
+      "the diagnosis test of choice is PET CT"]
+  },
+  
+  {
+    "CorrectAnswers": 2,
+    "text": "A 40 year old admitted  due to diarrhea for two days he reports 5 watery diarrhea a day and that a week ago he completed antibiotic treatment for pneumonia on exam fever 38.1 blood pressure 115/70 pulse 98 /min regular, soft abdomen with no peritonitis increased peristalsis lab: WBC 14000 with left shift, albumin 3.8g/dl, creatinine, 1.0 mg/dl,normal lactate clostridium difficile toxin is positive.\n\rWhat is the most appropriate antibiotic treatment?",
+    "options":[
+      "fecal microbiota transplantation",  
+      "IV vancomycin",
+      "oral vancomycin",
+      "IV metronidazole",
+      "combined IV metronidazole and vancomycin"  ]
+  },
+
+  {
+    "CorrectAnswers": 2,
+    "text": "67 years old female With the metastatic breast cancer to the bones in the past few weeks she is not mobile due to limb pain. She is admitted due to dyspnea and CT angiography rules out pulmonary embolism. Three days following the CT angio creatinine is 2mg/dl (normal1.2 mg/dl).\n\rWhich of the following collaborate with the most likely diagnosis?",
+    "options":[
+      "Low complement level",  
+      "Numerous dysmorphic red blood cell on urine sedimentation", 
+      "Creatinine level that returns to normal in one week",
+      "Peripheral blood eosinophilia",
+      "enlarged kidneys on ultrasound"]
+  },
+
+  {
+    "CorrectAnswers": 2,
+    "text": "A 60 years old male, complains of chest pain, dizziness, recent three episodes of syncope, and dyspnea during mild exercise. He also has medically controlled  hypertension and Diabetes. On examination - Blood Pressure 145/82, Pulse 64/min regular, normal breathing sounds, diminished S2, systolic ejection murmur 3/6 of the apex radiating to the carotids - echocardiography- severe aortic stenosis.\n\rWhich of the following is most appropriate management?",
+    "options":[
+      "Balloon aortic valvuloplasty.",  
+      "Continue current medication.",
+      "Surgical aortic valve replacement.",  
+      "Transcatheter aortic valve replacement (TAVR).",  
+      "Permanent Pacemaker implantation."]
+  },
+
+  {
+    "CorrectAnswers": 2,
+    "text": "A 67 years old male who is smoker, admitted due to right lobar pneumonia with positive streptococcus pneumonia on blood cultures. He is treated with ceftriaxone due to bacterial sensitivity. On the fifth day of treatment, his fever is 38.7 C and his WBC 18,000. Admission and repeat X-ray are given below.\n\rWhat is best next step in management? ",
+    "options":[
+      "Repeat x-ray in 3 days.",
+      "Change antibiotic treatment to Meropenem.",  
+      "Diagnostic Pleurocentesis.",
+      "Add Azithromycin to current treatment.", 
+      "Continue with the same antibiotic treatment"]
+  },
+
+  {
+    "CorrectAnswers": 2,
+    "text": "A 61 years old female with hypertension complains of intermittent low grade fever for 3 weeks with malaise and headaches. She reports unintentional weight loss of 4 Kg, neck and shoulder pain and rigidity and jaw pain while chewing. Lab - Normocytic anemia, elevated ESR and alkaline phosphatase.\n\rWhich of the following is most appropriate clinical approach?",
+    "options":[
+      "Temporal artery biopsy and treatment with Methotrexate.",  
+      "Treat with Tocilizumab (anti-IL6).",
+      "Treat with Prednisone and aspirin.",
+      "CTA of the neck arteries.",
+      "Liver and bile duct ultrasound."]
+  },
+
+  {
+    "CorrectAnswers": 1,
+    "text": "A 35 year old female is admitted for evaluation of pain and symmetric swelling of the wrists and 1-3 metacarpophalangeal joints, malar rash, leukopenia, and anemia.\n\rWhich of the following will most likely advance the diagnosis?",
+    "options":[
+      "Rheumatoid factor(RF)",
+      "Double stranded DNA antibodies (dsDNA AB).",  
+      "Anti-neutrophil cytoplasmic antibodies( ANCA)",  
+      "Antiphospholipid antibodies( APLA)",
+      "Erythropoietin"]
+  },
+
+  {    
+    "CorrectAnswers": 3,
+    "text": "A 52 year old male with liver cirrhosis is diagnosed with spontaneous bacterial peritonitis.\n\rWhat is the most common pathogen?",
+    "options":[
+      "Staphylococcus Aureus",
+      "Staphylococcus viridians",  
+      "Pseudomonas aeruginosa",
+      "Escherichia coli",
+      "Enterococcus faecalis"]
+  },
+
+  {
+    "CorrectAnswers": 4,
+    "text": "A 36 years old female with mitral prolapse arrive with a letter from the dentist requesting advice on how to avoid endocarditis as she is planned for a root canal treatment. The patient has no allergies and her echocardiography 6 months ago demonstrated thickening of the mitral valve with mild regurgitation.\n\rWhat is the most appropriate recommendation?",
+    "options":[
+      "Do not perform dental procedures until echocardiography is repeated.", 
+      "Gentamycin an hour before the procedure.",
+      "Amoxicillin an hour before the procedure and 8 hours after.", 
+      "Clindamycin for a week before the procedure", 
+      "There is no need for endocarditis prophylaxis in this case."]
+  },
+
+  {    
+    "CorrectAnswers": 2,
+      "text": "Which of the following is correct with regards to spirometry results in patients with advanced pulmonary fibrosis?\n\rResidual volume-RV\n\rTotal lung capacity-TLC\n\rForced vital capacity-FVC\n\rFunctional residual capacity-FRC\n\rDiffusing capacity for carbon monoxide-DLCO\n\rForced expiratory volume in second- FEV1.",
+    "options":[
+      "All volumes(RV,FRC,TLC,FVC) will be increased", 
+      "Low airway resistance", 
+      "Significantly decreased DLCO", 
+      "High RV with decrease in all other volumes", 
+      "Normal airway resistance" ]
+  }, 
+
+  {
+    "CorrectAnswers": 1,
+    "text": "A 70 years old male who is your patient for 10 years for active smoking and severe COPD. He was lost to follow up for a year because he was overseas. On examination see finding in photo bellow { clubbing finger} this is a new finding that was not documented in the medical records of the last visit. No other significant change.\n\rWhich of the following is the most appropriate next step?",
+    "options":[
+      "Follow up in 3 month",  
+      "Chest CT",
+      "Spirometry", 
+      "Lung scan",
+      "Echocardiography"   ]
+  },
+
+  {
+    "CorrectAnswers": 3,
+    "text": "A 41 year-old female arrives to the ER due to sight loss of the left eye, she reports pain above the sinuses and rhinorrhea for the past two weeks, she has type 1 diabetes for 20 years and is not well-controlled, on examination - fever 37,2 ,blood pressure 130/70, pulse 110/min regular, left eye proptosis and unresponsive left pupil, neurological examination - palsy of III, IV, V, VI cranial nerves. Head CT demonstrates left maxillary sinus mass that protrudes to the left frontal lobe with surrounding edema.\n\rWhich of the following is the most likely diagnosis?",
+    "options":[
+      "anthrax",
+      "aspergillosis",  
+      "pseudomonas",  
+      "mucormycosis", 
+      "diphtheria"]
+  },
+
+  {
+    "CorrectAnswers": 1,
+    "text": "A 40 year old healthy female is admitted due to neck pain and rapid heart rate for the past 3 days. Vital signs - fever 38.5c, resting heart rate 120/min, blood pressure 110/70. Labs: low tsh and increase t4 thyriod scan demonstrates diffuse decreased iodine uptake.\n\rWhat is the most appropriate next step?",
+    "options":[
+      "start beta blockers with methimazole or propyltionuracil",  
+      "start NSAIDs",
+      "start doxycycline",
+      "refer the patient for thyroidectomy",  
+      "start prednisone 1 mg/h" ]
+  },
+
+  {
+    "CorrectAnswers": 2,
+    "text": "A 60 year old male is brought to the ER due to palpitations and dyspnea. On examinations respiratory distress, diaphoretic, diffuse rales over the lungs, normal rapid heart sounds, irregular 160, blood pressure 80/50 .O2 saturations 85% with room air, below is the ECG.\n\rWhat is the most appropriate treatment at this time?",
+    "options":[
+      "Decrease head rate with IV-Beta -blockers",
+      "decrease heart rate with IV non-dihydropyrides calcium blockers",  
+      "immediate electrical cardioversion",
+      "immediate medical cardioversion with IV amiodarone",  
+      "non-invasive respiratory support with BIPAP and IV furosemide"]
+  },
+
+  {
+    "CorrectAnswers": 1,
+    "text": "A 30 year old male is admitted due to severe frontal chest pain radiating to the neck and left shoulder. The pain is exacerbated by deep breath and position change. On examination  in pain , blood pressure 110/70 , pulse 120/ min, temperature 37.9, room air saturation 96%, no jugular distention, heart - normal heart sounds without murmurs, lungs- bilateral breathing sounds without rales or wheezing, labs- leukocytosis with left shift. ECG is given below.\n\rWhat is the most appropriate treatment?",
+    "options":[
+      "Primary percutaneous coronary intervention  (PPCI)",
+      "Echocardiography and initiate with ibuprofen and colchicine",  
+      "Chest X Ray and tube thoracostomy",
+      "Chest CTA and immediate anticoagulation",  
+      "Chest CTA and immediate fibrinolysis"]
+  },
+
+  {    
+    "CorrectAnswers": 3,
+    "text": "A 63 year old healthy male with no regular medications is diagnosed with acute bacterial prostatitis. Ciprofloxacin was started, the patient improved, fever resolved, and he was discharged with 6 weeks of antibiotic treatment.\n\rWhich of the following is the most appropriate routine follow-up for ciprofloxacin side effect?",
+    "options":[
+      "serum lipase level",
+      "serum sodium level",
+      "stool of clostridium difficile", 
+      "achilles tendon tear",
+      "blood creatinine level"]
+  },
+
+  {    
+    "CorrectAnswers": 3,
+    "text": "Which of following best characterizes Evan`s syndrome?",
+    "options":[
+      "ITP with spherocytosis",
+      "ITP with cryoglobunemia", 
+      "ITP with myelodysplastic",
+      "ITP with hemolytic anemia",
+      "thrombocytopenia with schistocytosis"]
+  },
+
+  {    
+    "CorrectAnswers": 2,
+    "text": "A 45 year old  male is admitted for evaluation of diabetes due to family history of diabetes and its complications. He denies weight loss, polydipsia, or polyuria, on examination BMI is 22, normal blood pressure labs, fasting glucose 90mg/dl sugar level after glucose challenge test 130, HbA1c 5.5%.\n\rWhat is the most likely diagnosis?",
+    "options":[
+      "impaired fasting glucose",
+      "impaired glucose tolerance",  
+      "no evidence of diabetes",
+      "diabetes type 2",
+      "maturity onset diabetes of the young"]
+  },
+
+  {
+    "CorrectAnswers": 0,
+    "text": "A 35 year healthy male is brought to the ER with stupor and confusion a day before his admission he complained of frontal headache and sensitivity to light. On examination: fever 38.7, nuchal rigidity, spinal tap-100 leucocytes/microliter, mostly neutrophils, glucose 30mg/dl, protein 90mg/dl.\n\rWhat is the most appropriate empiric antibiotic treatment?",
+    "options":[
+      "ceftriaxone+vancomycin", 
+      "cefatriaxone+ampicillin",
+      "ampicillin+vancomycin",
+      "ceftriaxone+acyclovir",
+      "cefitraxone+doxycycline"]
+  },
+  {
+    "CorrectAnswers": 3,
+    "text": "Which of the following is correct with regards to peptic ulcer disease?",
+    "options":[
+      "almost ulcers in the duodenum are at the second part of the duodenum",
+      "malignant ulcer of the duodenum is common",
+      "Duodenal ulcers are not related to H Pylori",  
+      "One of the most causes of gastrointestinal ulcers is the use of NSAIDs", 
+      "Epigastric pain is characteristic of duodenal ulcer but not gastric ulcer"]
+  },
+
+  {
+    "CorrectAnswers": 2,
+    "text": "A 27 years old female with mild asthma mostly during season changes. For past 10 years and is treated with beta agonist (sulbatamol) during attacks. She now reports of severe episode and need for daily inhalations.\n\rWHICH OF THE FOLLOWING is THE MOST APPROPRIATE TREATMENT?",
+    "options":[
+      "add oral corticosteroids",  
+      "add PPI",
+      "add inhaled corticosteroids",  
+      "Add LABA",
+      "increase salbutamol dose"]
+  },
+
+  {
+    "CorrectAnswers": 4,
+    "text": "32 YEARS OLD HEALTHY MALE IS ADMITTED DUE abdominal pain, diarrhea and nausea he arrives to the er and HE NOTICED DARK URINe AND DECREASED URINe OUTPUT, BLOOD PRESSURE 90/60, DRY MUCOSA, LAB TEST: CREATININE 1.8MG/DL/n/r(NORMAL AT BASELINE).\n\rWhich of the following is expected on urine test?",
+    "options":[
+      "Osmolality 100milimole/kg, FeNa 0.7%", 
+      "Osmolality 100milimole/kg, FeNa 1.5%", 
+      "Osmolality 200milimole/kg, FeNa 0.7%",
+      "Osmolality 500milimole/kg, FeNa 2% ",
+      "Osmolality 600milimole/kg, FeNa 0.5% "]
+  },
+
+  {
+    "CorrectAnswers": 4,
+    "text": "A calcium of 12 mg/dl is found on routine blood test of a 33 year old healthy male he is asymptomatic and feels well.\n\rWhat is the most likely diagnosis?",
+    "options":[
+      "sarcoidosis",
+      "lung cancer",
+      "multiple myeloma",  
+      "multiple endocrine hyperplasia type 1",  
+      "primary hyperparathyroidism"]
+  },
+
+  {
+    
+    "CorrectAnswers": 0,
+    "text": "A 75 year male with fever and general deterioration eats and drinks very little. Diagnosed with facial herpes zoster and IV acyclovir is started. On examination -blood pressure 100/60 mmhg, pulse 100/min regular, fever 38c without any other Abnormal findings.\n\rWhich of the following is this patient most likely to develop?",
+    "options":[
+      "acute renal failure",
+      "congestive heart failure", 
+      "hypothyroidism",
+      "hypokalemia",
+      "hypomagnesemia"]
+  },
+  
+  {
+    "CorrectAnswers": 2,
+    "text": "A 25-year-old female is treated with trimethoprim-sulfamethoxazole (Resprim) due to urinary tract infection. Complains of significant malaise. Labs: hemoglobins 8.1 g/dl, WBC 16,000, platelets 58,000.\n\rWhich of the following is the most likely diagnosis?",
+    "options":[
+      "Sickle cell anemia",  
+      "Thalassemia",
+      "Aplastic anemia", 
+      "Anemia of chronic disease", 
+      "Hemolytic anemia"]
+  },
+
+  {    
+    "CorrectAnswers": 3,
+    "text": "A 40-year-old male arrives to the ER with confusion and fever of 38.6 C. On examination- Hemodynamically and respiratory-stable, no nuchal rigidity. Labs- WBC 6,400, hemoglobin 8.8 g/dl, MCV 90, platelets 60,000, total bilirubin 3.4 mg/dl, indirect bilirubin 3 mg/dl, creatinine 1.9 mg/dl. Peripheral blood smear image is given below.\n\rWhich of the following is the most appropriate treatment?",
+    "options":[
+      "Steroids and IVIG",  
+      "Empiric broad spectrum antibiotics", 
+      "One unit of blood after cross and match",  
+      "Plasma exchange",
+      "Urgent dialysis"]
+  },
+
+  {
+    "CorrectAnswers": 2,
+    "text": "A 35-year-old male with Crohn`s disease of the terminal ileum and without any medical treatment complains of unsteady gait and decreased sensation. He also reports tendency to forget things lately. On examination-unsteady gait, loss of vibration sensation. Labs-anemia with hemoglobin 8 mg/dl, MCV 120. Previous CBC was 3 years ago with hemoglobin 14 mg/dl and normal MCV.\n\rWhat is the most likely diagnosis?",
+    "options":[
+      "Hemolytic anemia",  
+      "Severe iron deficiency", 
+      "Vitamin B12 deficiency",
+      "Celiac disease",
+      "Vitamin C deficiency"]
+  },
+
+  {
+    "CorrectAnswers": 0,
+    "text": "55-year-old male with severe COPD is treated with bronchodilators. He is referred to the ER due to complains of dyspnea, yellow sputum producing cough, fever, and myalgia. On examination - tachypnea 18/min, fever 38.2, room air saturation 90%, multiple expiratory wheezes over the lungs, no jugular vein distention. Chest X-ray is without infiltrate or congestion.\n\rWhich of the following tests will most likely assist in diagnosis?",
+    "options":[
+      "Arterial blood gasses",
+      "B-type natriuretic peptide",  
+      "CT Angiography of the pulmonary arteries", 
+      "Echocardiography",
+      "Troponin"]
+  } 
+],
+
+"Pediatrics":[
+  {
+    "CorrectAnswers": 4, 
+    "text": "A preterm infant born at 29 week of gestation is ventilated since birth due to respiratory distress syndrome. On 3rd day of life there is a desaturation to 70%. There are reduced breathing sound on the right. Chest x-ray is attached",
+    "IMG": "(image).",
+    "options":[
+      "IHeight frequency ventilation",
+      "IRepositioning of the tracheal tube",  
+      "IUrgent internal tracheal suction",
+      "IAdding surfactant to ventilated air", 
+      "IInserting a drain into the pleural cavity and continuous suction."]
+
+  },
+
+  {
+    "CorrectAnswers": 3,
+    "text": "A 2 years old is evaluated for speech impairment. His history is positive for recurred otitis media. Examination is positive for middle ear effusion and cloudy ear drums. The boy feel well with no restless or fever.\n\rWhich of the following most appropriate next step?",
+    "options":[
+      "Irophylactic antibiotics treatment with moxypen(amoxicilin)", 
+      "IIntravenous treatment with zinacef ( cefruxime)",
+      "Iear drum puncture and antibiotics treatment according to secretion culture.", 
+      "Iconductive hearing test",
+      "Iventilation tubes insertion surgery"]
+  },
+
+  {
+    "CorrectAnswers": 4,
+    "text": "A 7 months old baby presents with 2 days of fever, refuses to eat, and has a decreased urine output. Examination revals decreased consciousness, grey skin, decreased capillary fill, temperature 39.8c, pulse 180bpm, blood pressure 60/40, O2 saturation 95% On room air.\n\rWhich of the following is the most appropriate order of actions?",
+    "options":[
+      "IBlood tests, metabolic screening, lumber puncture, and antibiotic treatment.",
+      "IFluid loading, lumber puncture and head ct.",
+      "IMetabolic screening including lactate and a critical sample and fluid loading.", 
+      "IFundus exam, fluid loading, brain imaging antibiotic treatment.",
+      "IBlood test, fluid loading, and antibiotics treatment."]
+  },
+
+  {
+    "CorrectAnswers": 2,
+   "text": "A 5 year old boy presents with intermittent periumbilical abdominal pain during the day, lating for 30 minutes. Physical examination blood count biochemistry and CRP are all normal.\n\rWhich of the following is the recommended approach?",
+   "options":[
+      "ICompleting the work up with abdominal CT.", 
+      "I Referral to gastroscopy .",
+      "I Observation in the treating clinic.", 
+      "IAbdominal x-ray",
+      "IHelicobacter pylori breath test."]
+  },
+
+  {
+    "CorrectAnswers": 0,
+    "text": "(with photo) A bone marrow biopsy of a 2 year old baby with anemia and hypertension is demonstrated in the photo below.\n\rWhich combination of signs and and symptoms may be found in this child?",
+  "options":[
+    "Right abdominal mass and opsomyoclonus .", 
+    "Right abdominal mass , hematuria and anema", 
+    "Weight loss night sweats n,d hepatosplenom",
+    "Weight loss and testicular mass.",
+    "Headaches and morning sickness."],
+    
+    "IMG": "img/questions/pedQ6.png"
+  },
+  {
+    "CorrectAnswers": 0,
+    "text": "6 years old child with spherocytosis present with 2 days of fever and the findings presented in the photo  his 10 years old sister had the same symptoms 2 weeks before.\n\rWhich of the following complications may appear in this child?",
+    "options":[
+      "Iaplastic anemia",  
+      "Ihyperbilirubinemia",  
+      "Ithrombocytosis",
+      "Ileukemia",
+      "Ilymphoma"]
+  },
+
+  {
+    
+    "CorrectAnswers": 3,
+    "text": "A 4 year old boy presents with fever up to 39c°  and throat pain for 2 days. His examination reveals pharyngitis, and the finding in the photo below.\n\rWhich of the following is the most common complication of his likely disease?\n\r<table><tr><th></th><th></th><th>Normal value</th></tr><tr><td>Hemoglobin gr/dl</td><td>12.1</td><td>11.5-14</td></tr><tr><td>WBC k/mm3</td><td>5.5</td><td>5-11</td></tr><tr><td>PLT (k/mm3)</td><td>35</td><td>150-500</td></tr><tr><td>Mean platelet volume (mpv) f1</td><td>5.7</td><td>9.4-12.3</td></tr><tr><td>IgM</td><td>Low</td></tr><tr><td>IgE</td><td>High</td></tr><tr><td>IgA</td><td>Low</td></tr><tr><td>IgG</td><td>Normal</td></tr></table>TABLE_END",
+    "options":[
+      "IToxic shock syndrome", 
+      "IBacterial meningitis",
+      "IAcute encephalitis", 
+      "IPara pharyngeal abscess",  
+      "IHemolytic uremic syndrome"  ]
+  },
+
+  {
+    "CorrectAnswers": 3,
+    "text": "In which of the following conditions should an 18-months old infant be referred to developmental evaluation?",
+    "options":[  
+      "IThe infant can`t hop on one foot.", 
+      "IThe infant can`t copy a circle.",
+      "IThe infant doesn`t play pretend games.", 
+      "IThe infant can`t say a few words.",
+      "IThe infant can`t build a 15-cube tower."]
+  },
+
+  {
+    "CorrectAnswers": 4,
+    "text": "An 8 months old baby, presents with the finding in the attached photo, since birth. He has been hospitalized 6 times for otitis media and once for pneumonia. He has had significant hemorrhage following circumcision. Laboratory results are demonstrated in the table.\n\rWhich of the following is the best treatment for the baby`s likely disease?",
+    "options":[
+      "IProlonged treatment with oral prednisone (meticorten)", 
+      "IIv Rocephin (ceftriaxone) once weekly",
+      "ISkin lubrication and topical antibiotics",  
+      "IRegular prophylactic treatment with amoxicillin", 
+      "IIntravenous immunoglobulins once a month"]
+  },
+
+  {
+    "CorrectAnswers": 3,
+    "text": "A 2 month -old presents to the emergency room with a generalized seizure. (ECG is attached).\n\rWhich of the following blood test would advance the diagnosis?",
+    "options":[
+      "IGlucose",
+      "ISodium", 
+      "ITSH",
+      "ICalcium",
+      "ICortisol"]
+  },
+
+  {
+    "CorrectAnswers": 1,
+    "text": "2 month old baby is evaluated for apathy and feeding difficulties, physical examination reveals tachycardia and a light tremor of the limbs, serum glucose is 35 mg/dl and urine ketones are negative.\n\rWhich of the following is the most likely diagnosis?",
+    "options":[
+      "Iglycogen storage diseases",
+      "Ihyperinsulinemia",
+      "Iadrenal insufficiency",  
+      "Igrowth hormone deficiency", 
+      "Iurea cycle defects"]
+  },
+
+  {
+    "CorrectAnswers": 2,
+    "text": "A 5 year -old girl is evaluated for inability to walk after 2 days of leg paresthesia. Examinations reveals gross weakness in both legs and negative deep tendon reflex.\n\rWhich of the following will promote the diagnosis?",
+    "options":[
+      "IIncreasing weakness in the evening", 
+      "I100 mononuclear cells in the CSF",
+      "ISensory level in neurologic exam ", 
+      "IAbnormalities in blood pressure and arrhythmias", 	 
+      "INormal deep tendon reflex in the upper limbs" ]
+  },
+
+  {
+    "CorrectAnswers": 3,
+    "text": "A 2 day old newborn is evaluated for cyanotic events  apneas and a high pitched cry, examination reveals a depressed nose bridge and micropenis laboratory results are significant for serum glucose of 30 mg /dl and unmeasurable insulin growth factor 1.\n\rWhich of the following is recommended treatment after initial stabilization?",
+    "options":[
+      "Ioral diazoxide",
+      "IIM glucagon",                                  
+      "Ioral mineralocorticoid ( florinef )", 
+      "Isubcutaneous GH",         
+      "Iadding cornflower to the feed"]
+  },
+
+  {
+    "CorrectAnswers": 2,
+    "text": "A 1 day old term newborn has developed hypoxia and shortness of breath, pregnancy was significant for polyhydramnios, examination reveals his mouth is full of large amount of saliva and cow milk based formula he has eaten 30 minutes earlier. Suction has been performed and supplemental oxygen was administrated.\n\rWhich of the following should be performed immediately?",
+    "options":[
+      "Idiscontinuing the formula and switching to a non cow milk based formula",  
+      "Iintubation and mechanical ventilation",
+      "Iinsertion of a nasogastric tube ,fasting and fluid infusion.",
+      "Ifull sepsis workup and antibiotics treatment",
+      "Iechocardiography and chest x-ray"]
+  },
+
+  {
+   "CorrectAnswers": 1,
+    "text": "Which of the following is true regarding the implication of skin test for cow milk allergy with significant wheel and flare reaction?",
+    "options":[
+      "Iclinically significant milk allergy",  
+      "Ithe patient has milk specific IgE antibodies",           
+      "Ithe patient has t cells sensitized to cow milk protein",  
+      "Ithe patient has  milk specific IgG antibodies",
+      "Ithe patient has milk specific IgA antibodies"]
+  },
+
+  {
+    "CorrectAnswers": 3,
+    "text": "A 3 years old girl is evaluated for a right leg limp for the last seven weeks, with high fever. Physical examination reveals uveitis and the findings demonstrated in the photo. The knee was tapped and fluids was drained. Laboratory results are attached.\n\r<table><tr><th>Test</th><th>Result</th><th>Normal value<th></tr><tr><td>Hemoglobin(gr/dl)</td><td>12</td><td>13-15</td></tr><tr><td>WBC (K/mm3)</td><td>13000</td><td>5-11</td></tr><tr><td>PLT (K/mm3)</td><td>500</td><td>150-500</td></tr><tr><td>ESR(mm/hr)</td><td>25</td><td>10-15</td></tr><tr><td>Blood smear</td><td>No blasts seen</td><td></td></tr><tr><td>NA</td><td>Positive</td><td></td></tr><tr><td>CRP</td><td>2</td><td>0-0.05</td></tr><tr><td>RF</td><td>negative</td><td></td></tr><tr><td>Joint fluid :</td><td></td><td></td></tr><tr><td>WBC (mm3)in joint fluid</td><td>2500/mm3</td><td></td></tr><tr><td>Joint fluid culture</td><td>Negative</td><td></td></tr></table>",
+    "options":[
+      "ISteroids + methotrexate",  
+      "IAnti tumor necrosis factor (infliximab)",
+      "IAnti CD20 (rituximab)",
+      "INon- steroidal anti inflammatory agents", 
+      "IPulses of systemic steroids."]
+  },
+  
+    {
+    "IMG": ["img/questions/pedQ17.png", "img/questions/pedQ17_2.png"],
+    "CorrectAnswers": 2,
+    "text": "A 7-year-old girl is evaluated for high fever, malaise, difficulty to raise from a sitting to a standing position, muscle pain and rash, over the last month. Physical examination includes a thickening of the skin and rash over the chest, knees, elbows and arms, as well as the findings in the photo. (2 Pictures: one picture of Gottron papules and one picture of Heliotrope rash).\n\rWhich of the following blood tests will promote the likely diagnosis?",
+    "options":[
+      "IC3 and C4 levels",
+      "ISerum dsDNA levels", 
+      "ISerum CPK levels",
+      "ISerum ASLO levels",
+      "ISerum IgE levels"]
+    },
+
+  {
+    "CorrectAnswers": 0,
+    "text": "A generally well baby was breast fed until 5 months, and thereafter was fed with cow milk based formula. The baby does not eat much and at 8 months his growth percentile fell from 30 to the 3th percentile.\n\rWhich of the following is the common reason for his condition?",
+    "options":[
+      "Ipsycho-social condition",
+      "Iow milk allergy",
+      "Ieliac disease",
+      "Iulmonary disease", 
+      "Irowth hormone deficiency"]
+  },
+
+  {
+    "CorrectAnswers": 3,
+    "text": "An 11 months old boy presents with 4 days of high fever, rhinorrhea, and conjunctivitis. On the 5th day he developed rash seen in the photo below (roseola infantum).\n\rWhich of the following is the recommended treatment?",
+    "options":[
+      "Intravenous immunoglobulins",  
+      "Ipassive immunization for the causative agent", 
+      "Iprophylactic antibiotic treatment with amoxicillin",  
+      "Iobservation and supportive care",
+      "Ivitamin D"]
+  },
+
+  {
+   "CorrectAnswers": 0,
+    "text": "Which of the following is contraindication for breast feeding?", 
+    "options":[
+      "an infant with galactosemia",
+      "a mother with HIV in the 3rd world", 
+      "a mother who is carrier of hepatitis C", 
+      "a mother receiving treatment for active syphilis",  
+      "a mother with mastitis."]
+  },
+
+  { 
+    "IMG": "----PICTURE---",
+    "CorrectAnswers": 1,
+    "text": "A 6 months old infant has infantile spasms. The photo bellow demonstrates the finding on examination () صورة رجلين ولد مع بقع بيضاء.\n\rWhich of the following is a common complication in his most likely disease?",
+    "options":[
+      "Melanoma.", 
+      "Autism.",  
+      "Cerebral Palsy.", 
+      "Schizophrenia.", 
+      "Deafness."]
+  },
+
+  {
+    "CorrectAnswers": 1,
+    "text": " A 4 years old presents to the ER with fever, apathy, and recurrent vomiting for a day. Examination reveals temperature of 40 c, pulse of 50 bpm, BP 150/90 and right lateral rectus  muscle weakness.\n\rWhich of the following is the most appropriate next step?",
+    "options":[
+      "lumbar puncture and antibiotic treatment according to the results",  
+      " obtaining 2 blood cultures and initiate antibiotics",  
+      "funds exam and if normal perform a lumbar puncture and initiate antibiotics",  
+      "brain CT and if normal perform a lumbar puncture and initiate antibiotics",  
+      "antibiotics , mannitol , and high frequency ventilation" ]
+  },
+
+  {
+    "CorrectAnswers": 0,
+    "text": " Which of the following is an indication BEHAVIOR for physiotherapy?", 
+    "options":[
+      "10 month old baby that can`t sit without support", 
+      "a 2 month old baby that doesn`t smile",  
+      "a 3 month old baby that doesn`t transfer objects between hands",  
+      "a 11 month old baby that can`t walk",  
+      "a 11 month old baby that can`t stand"  ]
+  },
+
+  {
+    "CorrectAnswers": 2,
+    "text": " 5 year old boy present with 5day`s of abdominal pain and bloody diarrhea. Over the last day there has been abrupt development of decreased urinary output, pallor and malaise, laboratory results and blood smear are attached.\n\r <table>    <tr><th>Test</th><th>Results</th><th>Normal value</th></tr>     <tr><td>serum urea</td><td>4.0mg/DL</td><td>11-38mg/dl</td></tr>    <tr><td>serum creatine</td><td>1.0</td><td>0.2-0.7</td></tr>    <tr><td>Hhemoglbin</td><td>6.9gr%</td><td>12-13.5gr%</td></tr>     <tr><td>Rreticulocytes%</td><td>5%</td><td>1-2%</td></tr>    <tr><td>thrombocytes</td><td>90,000</td><td>510-450,000</td></tr>     <tr><td>urinalysis</td><td>blood+++</td><td>-</td></tr>    </table>\n\rPicture blood smear.\n\rHow is the diagnosis most likely disease made?",    
+    "options":[
+      "identifying the causative agent in urine culture",   
+      "identifying E.coli 0157.h7 in the stool",
+      "renal biopsy",
+      "clinical symptoms and laboratory results",  
+      "positive coombs test"]
+  },
+
+{
+    "CorrectAnswers": 2,
+    "text": " A 13 years old boy present with a week back pain.\n\rWhich of the following warrants immediate work up?",
+    "options":[
+      "increasing weight percentiles in the last year.", 
+      "the back pain improves with rest.",
+      "the back pain wakes him up at night.",  
+      "bilateral negative Babinski sign.",
+      "bilateral negative leg lifting test." ]
+  },
+
+{
+    "CorrectAnswers": 1,
+    "text": " A-3-months-old baby presents to the emergency room with restlessness. Examination reveals O2 oxygen saturation of 98% in room air, pulse 230, and 36 breaths per minute, attached are chest x-ray and the ECG.\n\rWhich of the following is the most appropriate initial treatment?",
+    "options":[
+      "IV calcium channel blocker.",
+      "vagal maneuver + IV adenosine if needed.",  
+      "oral or IV systemic steroids.",
+      "inhalation of Ventolin(salbutamol) + bandicoot(budesonide).", 
+      "IV fusid(furosemide) + PO deralin(propranolol"]
+  },
+
+{
+    "CorrectAnswers": 0,
+    "text": ") Results of a complete blood count of a 7-week-old baby are demonstrate in the table below.\n\r  <table>    <tr><td>Test</td><td>Result</td><td>Normal value</td></tr><tr><td>Hemogloin</td><td>9.3 gr%</td><td>%gr 12-13.5</td></tr> <tr><td>MCV</td><td>90</td><td>80-95</td></tr><tr><td>RDW</td><td>13.7%</td><td>11.5-16.5%</td></tr>  <tr><td>PLT</td><td>280,000</td><td>150-450,000</td></tr><tr><td>WBC</td><td>9000</td><td>15,000-6000</td></tr> </table> \n\rWhich of the following may be additionally present in this condition?",
+    "options":[
+      "suppression of erythropoietin.",
+      "iron deficiency. ",
+      "hemolytic anemia. ",
+      "transient erythroblastopenia of childhood.",
+      "parvo virus B19 infection."]
+  },
+
+{
+    "CorrectAnswers": 0,
+    "text": " A 4 day old newborn with fever has a lumbar puncture, gram strain of CSF reveals cocci (photo of small blue dots in a chain like shape with pink agar the cocci stained blue).\n\rWhich of the following is considered a risk factor for this disea?",
+    "options":[
+      "premature rupture of membrane",
+      "breech delivery",
+      "vesicular lesions on the cervix during delivery",
+      "gestational age above 42 weeks and fetal distress during delivery",
+      "maternal age over 40 year old during the delivery"]
+  },
+
+{
+    "CorrectAnswers": 1,
+    "text": " A 15 year old girl presents with loss of 30 kg over the last 6 months and secondary amenorrhea, the girl is an outstanding student involved in sports and reports that she is afraid of gaining weight and has no appetite her BMI is less than 3rd percentile and her pulse is 50 bpm regular.\n\rWhich of the following results is typical for her condition?",
+    "options":[
+      "hypercalcemia",
+      "hypercholesterolemia",
+      "hyperkalemia + metabolic acidosis",  
+      "hypomagnesaemia",
+      "hypoalbuminemia"]
+  },
+
+{
+    "CorrectAnswers": 4,
+    "text": " An 8 months old baby present with fever and drooling and examination reveals the finding in the (photo).\n\rwhich of the following is recommended treatment?",
+    "options":[
+      "oral acyclovir (zovirax)",
+      "oral milrinone",
+      "topical miconazole (daktarin gel)",
+      "iv immunoglobulins",
+      "analgesic agents and a lot of drinking"  ]
+  },
+
+{
+    "CorrectAnswers": 3,
+    "text": " A 3 weeks old baby is evaluated for projectile vomiting after every breastfeeding over the last couple of days. He is restless, and without fever.\n\rWhich of the following is typical on this baby`s blood test?",
+    "options":[
+      "Hyperbilirubinemia with elevated direct bilirubin component",
+      "Hyperchloremic metabolic acidosis",
+      "leukocytosis with eosinophilia",
+      "Hypochloremic metabolic alkalosis",
+      "leukocytosis with lymphocytosis"]
+  },
+
+{
+    "CorrectAnswers": 3,
+    "text": " A 1-year girl presents with 2 days of high fever. A culture from a urine collection bag grew > 100,000 /ml Gram negative bacteria after 24 hours. The infant still has fever.\n\rWhich of the following is the recommended approach?",
+    "options":[
+      "Oral trimethoprime - Sulfamethoxazole (resprime)", 
+      "Admission and intravenous gentamycin",
+      "Urine serum and if normal repeat urine culture", 
+      "Culture from a urine catheter",
+      "Repeat urine collection bag culture after cleaning of the perineum"]
+  },
+
+{
+    "CorrectAnswers": 3,
+    "text": " A 15 year-old girl evaluated for malaise and fatigue over the last few weeks. Examination reveals the temperature of 36.6c, blood pressure 80/40 (normal values 100-120//70-80), pulse 112bpm (normal values 60-100)./n/r  Laboratory results are presented in the table, with the findings on the photos below:\n\r <table>   <tr><th></th><th></th><th>Test Result Normal values</th></tr>    <tr><td>Hemoglobin</td><td>12.2 gr% </td><td>12-15 gr%</td></tr> <tr><td>Serum sodium</td><td>125 mmol/L</td><td>136-145 mmol/L</td></tr>  <tr><td>Serum potassium</td><td>5.9 mmol/L</td><td>3.4-4.7 mmol/L</td></tr>    </table> \n\rWhich of the following is the recommended treatment?",
+    "options":[
+      "oral- L-thyroxin once daily",
+      "2 doses of intravenous iron", 
+      "IV saline-glucose 5% + KCL 4 mq/L", 
+      "IV saline-glucose 5% Hydrocortisone", 
+      "oral prednisone + L-thyrox"]
+  },
+
+{
+    "CorrectAnswers": 0,
+    "text": " A 2.5-year-old presents with 3 days of fever and rash, and restlessness over the last day. Examination reveals fever of 38.1C, pulse 170 bpm blood pressure 60/30, O2 saturation 97% in room air. There is a mild skin rash, regular, rapid heart sounds and 2/6 systolic murmur, chest x ray is normal and the ECG is attached.\n\rWhich of the following is the most common cause of this condition?",
+  "options":[
+    "Enterovirus",
+    "HIV",
+    "Streptococcus group A",
+    "Rickettsia",
+    "Varicella Zoster"]
+  },
+
+{
+    "CorrectAnswers": 1,
+    "text": " A 13 year-old girl presents to the emergency room 2 hour after ingesting an unknown number of acetaminophen pills. Her blood pressure, pulse, and physical examination are normal. Blood glucose and liver function test are normal, and acetaminophen levels are 50 mcg/ml.\n\rWhich of the following represent the most appropriate approach?",
+    "options":[
+      "Gastric lavage and glucose infusion",  
+      "Recheck acetaminophen levels after 2 hours",                            
+      "Intravenous N-acetylcysteine",
+      "Single dose of activated charcoal and glucose infusion",  
+      "Repeat glucose and liver function test within 2 hours"]
+  },
+
+{
+    "CorrectAnswers": 3,
+    "text": " A 7 month old healthy infant present after a self -resolving general seizure lasting 10 minutes. The infant was awake after the episode, his temperature was 40c and he had a normal neurological examination. There were no further episodes.\n\rWhich of the following is true regarding the infant neurologic prognosis?",
+    "options":[
+      "he has a higher risk of epilepsy than the general population.",
+      "the risk of recurrence is identical to a 2 year old with the same symptom.",
+      "if the episode recurred it will be similar to the current episode.",
+      "his neurologic and cognitive development are expected to be normal for his age.",
+      "the risk of future epilepsy is dependent on the number of recurrences."]
+  },
+
+{
+    "CorrectAnswers": 2,
+    "text": " A 6 years old boy present with microscopic hematuria. 2 weeks earlier he had a self resolving throat pain, and cultures were not obtained. Examination reveals blood pressure 135/90 (normal values 100-120/70-80) Laboratory results include:\n\r  <table>  <tr><th>Test</th><th>Result</th><th>Normal</th></tr>  <tr><td>Serum urea</td><td>50</td><td>20-40</td></tr>   <tr><td>Serum creatinine</td><td>0.9</td><td>0.4-0.7</td></tr>  <tr><td>Serum antistreptolysin</td><td>790 units/L</td><td><300</td></tr>    </table> \n\rWhich of the following is true regarding diagnosis of this disease?",
+    "options":[
+      "a positive group A streptococcal throat swab is necessary for diagnosis",
+      "C3 and C4 is expected to be above the normal value",
+      "high probability for existence of red blood cells casts in urinalysis",
+      "renal biopsy is warranted early in the Course of the disease",
+      "an Echocardiogram should be performed to evaluate the structure and function of the valves."]
+  },
+
+{
+    "IMG": "img/questions/pedQ38.png",
+    "CorrectAnswers": 1,
+    "text": " A 1-year-old presents with restlessness, a large vomit, and thereafter intermittent apathy and restlessness with gradual worsening over the last few hours in the emergency room. After performing a rectal exam the finding in the photo above is seen.(Picture of bloody stool in a diaper).\n\rWhich of the following is the recommended definitive therapy?",
+    "options":[
+      "Fluid infusion",
+      "Air enema",
+      "antibiotic treatment",
+      "appendectomy",
+      "Intravenous steroids" ]
+  },
+
+{
+    "CorrectAnswers": 0,
+    "text": " A 5 year old boy present with a day of groin and right hip pain a week after a viral upper respiratory disease. Examination reveals a limp and external rotation of the right hip. Laboratory results include a normal blood count, ESR and CRP. Sonogram demonstrate an small amount of cleat fluid in the right hip joint.\n\rWhich if the following is the recommended treatment?",
+    "options":[
+      "Oral NSAIDs and avoiding strains",
+      "Drainage of the joint and antibiotics treatment",  
+      "Intraarticular steroids",
+      "Prednisone( meticorten)",
+      "Systemic anti- TNF alpha"]
+  },
+
+{
+    "IMG": "img/questions/pedQ40.png",
+    "CorrectAnswers": 2,
+    "text": " A-6-year boy is evaluated for developmental delay. His history is positive for significant hypotony, feeding difficulties and failure to thrive during the first month. At 3 years of age he developed increased appetite and overweight. His physical examination findings are demonstrated in the photo below. Also he has small feet and micropenis.\n\rWhat is this boy`s most likely genetic problem?",
+    "options":[
+      "Trisomy",
+      "Expansion of trinucleotides",
+      "Imprinting impairment",
+      "Point mutation",
+      "Multifactorial inheritance"]
+  },
+
+{
+    "CorrectAnswers": 4,
+    "text": " A 6-months old baby is evaluated for developmental delay and constipation. Her examination is significant for hypotony, and the findings in the photo below.Laboratory results are attached:\n\r <table>    <tr><th>Test</th><th>Result</th><th>Normal values</th></tr>     <tr><td>TSH</td><td>1 MIU/L</td><td>0.5-4.2 MIU/L</td></tr>   <tr><td>FT4</td><td>4 picomol/L</td><td>10-20 picimol/L</td></tr>    </table>\n\rWhich of the following is the most likely diagnosis?",
+  "options":[
+    "Primary hypothyroidism.",
+    "Thyroid dysgenesis",
+    "Thyroid binding globulin deficiency.",
+    "Dyshormonogenesis.",
+    "Pan hypopituitarism"]
+  },
+
+{
+    "CorrectAnswers": 3,
+    "text": " A 6 hour newborn delivered via CS, is examined due to tachypnea (70 breaths per minute), O2 saturation is 89% in room air, examination is significant for grunting intercostal retractions, with normal breath sounds with no wheezing or crackles, chest Xray reveals accentuated perihilar marks and fluid in the interlobar fissures.\n\rWhich of the following is the recommended approach?",
+    "options":[
+      "positive pressure ventilation",
+      "intrathecal surfactant",
+      "echocardiography and NSAIDS treatment",
+      "supplemental oxygen",
+      "sepsis workup and antibiotics"]
+  },
+
+{
+    "IMG": "img/questions/pedq43.png",
+    "CorrectAnswers": 4,
+    "text": " 16 year old girl complains of severe back pain radiating to the right leg over the last months. (Examintion photo).\n\rWhich of the following should be next step?",
+    "options":[
+      "spiral CT",
+      "symptomatic and treatment and encouraging spots",
+      "physiotherapy",
+      "fitting a back -belt",
+      "spinal MRI"]
+  },
+
+{
+    "CorrectAnswers": 3,
+    "text": " A 9 year old boy is evaluated because he cant sit quietly or at dinner. Teachers report he gets up and walks around in class talks all the time, jumps from subject to subject, can`t wait his turn, and bursts in when others talk.\n\rWhich of the following is recommended approach to his condition?",
+    "options":[
+      "COMBINATION OF BEHAVIORAL AND ANTI DEPRESSIVE",
+      "COMBINATION OF BEHAVIORAL THERAPY IN THERAPUTIC HORSE BACK RIDING AND EMOTIONAL THERAPY",
+      "COMBINATION OF BEHAVIORAL AND PSYCHOTIC THERAPY",
+      "COMBINATION OF BEHAVIORAL AND STIMULANT THERAPY",
+      "FOLLOW UP AND OBSERVATION THIS IS NORMAL FOR HIS AGE"]
+  },
+
+{
+    "CorrectAnswers": 0,
+    "text": " A 3-year-old boy presents with the findings on the photo below. The rash doesn`t disappear when pressing on it. Complete blood count reveals 18,000 platelets (normal values 150-450,000) and normal hemoglobin and white blood count.\n\rWhich of the following is true regarding his most likely disease?",
+    "options":[
+      "IVIG treatment significantly shortens the disease course",
+      "The risk of a cerebral hemorrhage is high and therefore treatment with IVIG is warranted",
+      "The initial recommended treatment is platelets infusion",
+      "No evidence that medical treatment prevents severe hemorrhage",
+      "The definitive treatment in most cases is spleenectomy"]
+  },
+
+{
+    "CorrectAnswers": 0,
+    "text": " A 17.5-year-old, generally healthy boy, has +2 urinary protein on several tests. Examination reveals normal pulse and blood pressure, BMI at 90th percentile, and normal exam. Complete blood count, renal function, and serum albumin are within normal limits.\n\rWhich of the following is the next diagnostic test?",
+    "options":[
+      "Protein/creatinine ratio in first morning urine",
+      "Renal sonogram",
+      "Osmolarity of first morning urine",
+      "Referral to a pediatric nephrologist",
+      "Serum lipid profile"]
+  },
+
+{
+    "CorrectAnswers": 3,
+    "text": " A 16-year-old boy has BMI above the 99th percentile. Laboratory results are demonstrated below:\n\r<table>  <tr><th>Test</th><th>Result</th><th>Normal values</th></tr> <tr><td>HBA1C</td><td>6.4%</td><td><5.7%</td></tr> <tr><td>Fasting serum glucose</td><td>99 mg/dl</td><td><100 mg /dl</td></tr>     <tr><td>serum glucose 2 hours after OGTT( Oral Glucose Tolerance Test)</td><td>178 mg / dl</td><td><140 mg / dl</td></tr> </table> \n\rWhich of the following is the most likely diagnosis?",
+    "options":[
+      "Impaired fasting glucose (IFG)",
+      "Diabetes mellitus type 2",
+      "Mature onset diabetes of the young (MODY)",
+      "Impaired glucose tolerance (IGT)",
+      "Combined IFG+IGT"]
+  },
+
+{
+    "CorrectAnswers": 2,
+    "text": " A 2-year-old boy presents with a first episode of the findings in the photo below. History is positive for recurrent vesicular rash above the lip, the recent one a week ago.\n\rWhich of the following is true regarding the likely causative agent and treatment?",
+  "options":[
+      "Usually the findings in the above photo appear in the first episode of infection", 
+      "The causative agent`s RNA is identifiable in pharyngeal secretions during the acute disease",  
+      "The rash usually appears during a symptomatic infection",
+      "Prophylactic treatment may be efficient in reducing symptom recurrence",
+      "Systemic treatment usually shortens the course of the disease"]
+  },
+
+{
+    "CorrectAnswers": 0,
+    "text": " An 8-year-old boy, who has fallen off his bicycle complains of intense abdominal and rib pain. Physical examination in the emergency room reveal full consciousness, blood pressure of 100/70, pulse 120 bpm, tender abdomen, and the finding in the attached photo. Isotonic fluid therapy was initiated, at maintenance volume. 30 minutes later blood pressure is 80/50 and the pulse is 160 bpm. Chest x-ray is normal.\n\rWhich of the following is the most appropriate next step?",
+    "options":[
+      "Emergent explorative laparotomy",
+      "High dose dopamine drip",
+      "Abdomen and pelvic CT",
+      "Head and neck CT",
+      "None"]
+  },
+
+{
+    "CorrectAnswers": 2,
+    "text": "At which of the following ages, does the grasp presented in the photo appear?",
+    "options":[
+      "3-5 months",
+      "6-7 months",
+      "8-10 months", 
+      "14-15 months",
+      "16-18 months"]
+    }
+  ],
+
+
+
+
+      "Surgery":[
+   {
+    "CorrectAnswers": 1,
+    "text": "A 38-year-old healthy female, 24 weeks pregnant , presents with 1.5 cm left breast mass . On biopsy - invasive breast cancer , ERIPR negative , HER2 Neu positive .\n\r Which of the following is correct in this case ? ",
+    "options":[
+      "Breast cancer during pregnancy require mastectomy as the procedure of choice",
+      "There is an indication for wide local excision with axillary lymph node dissection ( ALND ) and one should not perform sentinel lymph node biopsy",
+      "Mastectomy is preferred over breast conserving surgery if the cancer is high grade or with vascular invasion",
+      "In young females the muscle under the tumor needs to be removed because of the risk for local recurrence",
+      "There is no survival benefit for mastectomy over breast conserving surgery in females at any age"]
+  },
+  {
+    "CorrectAnswers": 2,
+    "text": "What is the reason that sliding hernia repair may be difficult?", 
+    "options":[
+      "It includes abdominal organs",
+      "It reaches the femoral vessels and often adherent to them",
+      "Part of the wall of hernia sac involves the colonic peritoneum or urinary bladder",
+      "There is a tissue gap of the transversalis fascia in the inguinal canal",
+      "Repair of such hernias must be done laparoscopically and not via open approach"]
+  },
+  {
+    "CorrectAnswers": 2,
+    "text": "A 37 years old female is interested in bariatic surgery.\n\rWhich of the following describes current indications for bariatic surgery ?",
+    "options":[
+      "BMI less than 30",
+      "BMI less than 40 without comorbidities",
+      "BMI more than 40 or BMI more than 35 with comorbidities",
+      "BMI more than 40 with comorbidities BMI more than 50 with comorbidities",
+      "None of the above"]
+  },
+  
+  {
+    "CorrectAnswers": 0,
+    "text": "A 22 year old male complains of bright red blood per rectum, itching sensation, and prolapsing tissue during effort to pass bowel movements. The tissue spontaneously pulls back into the rectum when he stands up./n/rWhat is the most likely diagnosis ?",
+    "options":[
+      "Hemorroids grade 2",
+      "Thrombosed haemorrhoids", 
+      "Rectal prolapse",
+      "Perianal abscess",
+      "Chronic rectal fistula"]
+  },
+  {
+    "CorrectAnswers": 2,
+    "text": "Which of the following pathogens causes cholangitis mostly?",
+    "options":[
+      "candida albicans",
+      "strep viridian",
+      "klebsiella",
+      "Acinetobacter",
+      "clostridium difficile"]
+  },
+  {
+    "CorrectAnswers": 1,
+    "text": "A 71 years old healthy male with no prior abdominal surgeries, presents to the ER with abdominal distention, abdominal pain, vomiting and lack of bowel movements for 3 days. On examination- soft distended abdomen, diffuse tenderness, without peritonitis. Abdominal CT demonstrates dilated loops of small bowel until the terminal ileum. Where the around lesions is identified in the bowel lumen .The bowel distant to the lesion is collapsed, pneumobilia is another finding.\n\r    What is the most likely diagnosis?",  
+    "options":[
+      "mesenteric event", 
+      "gallstone ileus",
+      "closed loop obstruction", 
+      "small bowel intussusceptions", 
+      "sigmoid volvulus"]
+  },
+  {
+    "CorrectAnswers": 1,
+    "text": "a 47 years old male presents to the ER with several weeks of upper abdominal pain and early satiety. No fever or weight loss, epigastric fullness on examination. Ultrasound and CT scans demonstrate a left liver lobe 7 cm mass with several cysts inside and peripheral calcification. What is the most likely diagnosis?",
+    "options":[
+        "pyogenic abscess",
+        "hydatid cyst",
+        "amebic abscess", 
+        "liver adenoma",
+        "simple cyst"]
+  },
+  {
+    "CorrectAnswers": 2,
+    "text": " Which of the following most accurately describes Spigelian hernia?",
+    "options":[
+      "Recurrent hernia in previous incision.",
+      "Hernia at the posterior aspect of the left diaphragm.", 
+      "Hernia lateral to the rectus muscle at the arcuate line.", 
+      "Internal hernia lateral to the duodenum.",
+      "Hernia at the obturator foramen."]
+  },
+  {
+    "CorrectAnswers": 3,
+    "text": "A 14 year old female is a candidate for resection of fibroadenoma of right breast.\n\r     Which of the following prophylactic antibiotic regmens is indicated?",
+    "options":[
+      "Augmentin",
+      "zinnat",
+      "ceforal",
+      "no need for prophylactic treatment",
+      "Dalacin C"]
+  },
+  {
+    "CorrectAnswers": 2,
+    "text": "A 60 year old female is diagnosed with 1.5 cm invasive carcinoma of the right breast ER-positive, PR- positive, HER2- negative, breast ultrasound demonstrates the tumor without evidence of axillary metastasis.    \n\rWhat is the recommended procedure? ",
+    "options":[
+      "mastectomy and sentinel lymph node biopsy", 
+      "modified radical mastectomy",
+      "lumpectomy and sentinel lymph node biopsy",
+      "lumpectomy and axillary lymph node dissection", 
+      "lumpectomy and intra operative radiation"]
+  },
+  {
+    "CorrectAnswers": 2,
+    "text": "A 60 year old male is admitted due to multiple vomiting for a week, plain abdominal X-ray demonstrates very large stomach and nasogastric tube drains 2000 ml of gastric content without bile. \n\r    Which of the following is the most likely to be found on blood tests?",
+    "options":[
+      "hyperkalemia, hypernatremia, metabolic alkalosis", 
+      "hypokalemia, hypochloremia, metabolic alkalosis",
+      "hyperkalemia, hyperchloremia, metabolic acidosis",
+      "hypokalemia, hypochloremia, normal acid base balance", 
+      "hypercalcemia, hypernatremia, metabolic acidosis"]
+  },
+        
+  {
+    "CorrectAnswers": 3,
+    "text": "A 30 year-old male is brought to the trauma unit following a severe motor vehicle accident. He looks scared and complains of pain all over the body. Vital signs - blood pressure 87/75, pulse 126, 32 breaths/min.     \n\rWhat is this patient`s shock stage?", 
+    "options":[
+      "He is not in shock",
+      "Stage 1",
+      "Stage 2",
+      "Stage 3",
+      "Stage 4"]
+  },
+  {
+    "CorrectAnswers": 4,
+    "text": "A 50 year old male is brought to the trauma unit following a severe motor vehicle accident. He looks restless and complains of pain all over the body. Vital signs blood pressure 80/60, pulse 130, 32 breaths/min. \n\rAll of the following may be the source of his hemorrhagic shock except ? ",
+    "options":[
+      "chest",
+      "abdomen", 
+      "pelvic fracture", 
+      "long bones fracture", 
+      "wrist fracture"]
+  },
+        
+  {
+    "CorrectAnswers": 3,
+    "text": "A 60 year old female has ischemic heart disease, morbid obesity, hypertension and diabetes. She is treated with glucomin, long acting insulin, fusid, aspirin and beta blockers. candidate for major abdominal surgery during the next hours. \n\rWhich of the following must be continued during the pre-operative period ?",
+    "options":[
+      "glucomin",
+      "aspirin",
+      "fusid",
+      "beta blockers", 
+      "long acting insulin"]
+  },
+        
+  {
+    "CorrectAnswers": 1,
+    "text": "A seventy years old male arrives to the emergency room with acute large bowel obstruction due to left colon cancer. Vital signs -  BP is 85/50 and pulse is 130. \n\r    The preferred treatment is:",
+    "options":[
+      "Loop ileostomy.",
+      "Loop colostomy.",
+      "Left colectomy.",
+      "Subtotal colectomy with primary anastomosis.",
+      "Total abdominal colectomy."]
+  },
+        
+  {
+    "CorrectAnswers": 3,
+    "text": "Which of the following is the most significant risk factor for developing delirium? ",
+    "options":[
+      "Pain.",
+      "Fever.",
+      "Length of surgery.", 
+      "Dementia.",
+      "Narcotics use."]
+  },
+  {
+     
+    "CorrectAnswers": 3,
+    "text": "A 42 year old female is diagnosed with squamous ulcer of the nipple on physical examinatio Excisional biopsy is suggested to rule out Paget`s disease .\n\rWhat will be the appropriate treatment if Paget`s disease is diagnosed ? ",
+    "options":[
+      "Evaluation of the skull since Paget`s disease often involves the skull bones", 
+      "The involved part of the nipple can be resected without resecting the breast tissue that is not involved",
+      "Axillary evaluation is not indicated in cases of Paget`s disease since it is always DCIS without metastases",
+      "Breast imaging is usually negative in Paget`s disease and therefore breast conserving surgery includung nipple resection with ipsilateral axillary evaluation is a valid option",
+      "There is no role for radiation therapy in Paget`s disease as it was proven to be ineffective"]
+  },
+  {
+    "CorrectAnswers": 0,
+    "text": "A 30 year old male who is treated for lymphoma, is brought to the trauma unit following a severe motor vehicle accident. He complains of pain all over the body. Vital sings- blood pressure 87/75, pulse 126, 32 breaths/ min. Imaging demonstrates fractures of the pelvis and right femur.\n\r All of the following are risk factors for DVT except. ",
+    "options":[
+      "Young age",
+      "Severe trauma", 
+      "Previous episode of DVT", 
+      "Malignancy",
+      "Protein C deficiency"]
+  },
+  {
+    "CorrectAnswers": 0,
+    "text": "A 70 year old male is referred for evaluation due to epigastric discomfort, early satiety, and weight loss over the past several months. Gastric cancer is suspected. \n\rWhich of the following is correct?", 
+    "options":[
+      "One must perform complete physical examination with special attention to signs for advanced disease at the umbilicus, above the clavicle, and rectal examination", 
+      "In all cases of gastric cancer, the treatment is gastrectomy with wide surgical margins.", 
+      "Gastric cancers are not very aggressive with survival rates more than 5 years in most patients.", 
+      "Gastric cancers respond to chemotherapy only.", 
+      "Most of gastric tumors are secondary to other malignant primaries."]
+  },
+        
+  {
+    "CorrectAnswers": 4,
+    "text": "A 30 years old healthy male present to ER with obstructive jaundice , on admission no apparent distress , but significant skin and scleral icterus , no history for weight loss , pain or fever . Labs - normal WBC , and CRP , elevated cholestatic liver enzymes and bilirubin of 5 mostly direct . Abdominal ultrasound demonstrates cholelithiasis without evidence of cholecystitis or bile duct dilatation .\n\r What is the next step in management ? ",
+    "options":[
+      "Cholecystectomy",
+      "Ursoilt",
+      "Abdominal CT", 
+      "Percutaneous transhepatic cholangiography (PTU)", 
+      "ERCP"]
+  },
+        
+  {
+     "CorrectAnswers": 2,
+    "text": "Which of the following is correct with regards to inguinal hernia development ? ",
+    "options":[
+      "There is no association between increase in age and inguinal hernia development .",
+      "Direct inguinal hernia is most common hernia in women .",
+      "Inguinal hernia represent 75% of all hernias.",
+      "Direct inguinal hernia is more common than indirect inguinal hernia.", 
+      "Acute incarceration is the most common presentation of inguinal hernia"]
+  },
+        
+  {
+    "CorrectAnswers": 1,
+    "text": "A 71 years old healthy male with no prior abdominal surgeries present to the ER with abdominal distention, abdominal pain, vomiting, and lack of bowel movement for 3 days. On examination- soft distended abdomen, diffuse tenderness, without peritonitis. Abdominal CT demonstrates dilated loops of small bowel until the terminal ileum where a round lesion is identified in the bowel lumen. The bowel distant to this lesion is collapsed.  Pneumobilia is another finding .\n\r What is the most appropriate treatment? ",
+    "options":[
+      "MRCP",
+      "exploration and enterotomy", 
+      "laparoscopic cholecystectomy",
+      "laparoscopic cholecystectomy + CBDE.", 
+      "percutaneous drainage of gallbladder"]
+  },
+        
+  {
+    "CorrectAnswers": 4,
+    "text": "A 72 years old male is a. week after fractured hip. He now complains of abdominal distention and no bowel movement. On examination- distended and tympanic abdomen, without peritonitis. Abdominal  X-ray demonstrates large bowel dilatation throughout and the cecum diameter is 9.5 cm. No tumor is identified on gastrografin enema.    \n\rWhat is the next step in management?",
+    "options":[  
+      "Total abdominal colectomy",
+      "Rectosigmoid resection and colostomy",
+      "Stoma only",
+      "Colonoscopy and stent insertion",
+      "IV neostigmine"]
+  },
+        
+  {
+    "CorrectAnswers": 0,
+    "text": "A 58-year-old female complains of abdominal pain , multiple episodes of diarrhea , repeat episodes of face and neck flushing that resolve spontaneously , and repeat asthma attacks . On examination - hepatomegaly and heart murmur.\n\r Which of the following blood tests is necessary for diagnosis? ",
+    "options":[
+      "Chromogranin A",
+      "Serotonin",
+      "Neurokinin  A",
+      "Neuropeptide K",
+      "CEA(carcinoembrionic antigen)"]
+  },
+        
+  {
+    "CorrectAnswers": 2,
+    "text": "a 60 year old male is being evaluated for significant abdominal distension without tenderness past medical history significant for hypertension that is treated medically, ischemic heart disease status-post coronary cauterization with stent insertion and severe heart failure severe peripheral vascular disease status post multiple surgeries hepatitis b carrier and partially balanced diabetes ultrasound demonstrates large amount of abdominal free fluid.\n\r Which of the following is the most likely to explain the abdominal free fluid ? ",
+    "options":[
+      "complication of  the hypertension medication",
+      "severe hypoglycemia and failed attempt to treat with combined insulin and Glucophage",
+      "severe right heart failure",
+      "status post multiple attempt to bypass of peripheral arterial obstruction",
+      "carrier of hepatitis B due to blood transfusion during surgeries"]
+  },
+        
+  {
+    "CorrectAnswers": 2,
+    "text": "A usually healthy 53- year old male that weights 90Kg undergoes uneventful right colectomy due to cecal tumor . On morning round on Post operative day ! he is stable and without stress , the abdomen is not distended with appropriate tenderness . Urine output is normal . \n\r    In the assumption that he will not drink during thr day - what is the crystalloid maintenance that should be given in the next 24 hours ?",
+    "options":[
+      "80 cc/h",
+      "100 cc/h",
+      "130 cc/h",
+      "145 cc/h",
+      "160 cc/h"]
+  },
+        
+  {
+    "CorrectAnswers": 0,
+    "text": "Which of the following is correct regarding primary hyperparathyroidism (PHPTH) and secondary hyperparathyroidism (SHPTH)? ",
+    "options":[
+      "PHPTH is caused by dysfunction of the gland itself while SHPTH is caused by excessive PTH secretion caused by hypocalcemia",
+      "PHPTH is caused by decreased levels of vitamin D and chronic renal failure while SHPTH is caused by four gland hyperplasia resulting from hypocalcemia ",
+      "The treatment is similar in both PHPTH and SHPTH",
+      "PHPTH is less common than SHPTH",
+      "PHTPH usually involves 2-3 glands while SHPTH involves a single gland"]
+  },
+  {
+    "CorrectAnswers": 1,
+    "text": "What is most likely the diagnosis? ",
+    "options":[
+      "External hemorrhoids",
+      "Rectal prolapses",
+      "perianal abscess",
+      "rectal cancer",
+      "giant rectal polyp"]
+  },
+        
+  {
+    "CorrectAnswers":  4,
+    "text": "Which of the following is correct regarding diastasis recti ? ",
+    "options":[
+      "It is a congenital abdominal wall defect that presents following multiple pregnancies or morbid obesity",
+      "The main indication for surgery is to avoid acute organ incarceration or strangulation",
+      "It is not defined as a typical hernia as there is no defect in the transversalis fascia",
+      "It is an acquired defect and its presence by itself is an indication for surgery",
+      "It is typical in multipara women and presents in mid - lower abdomen"]
+  },
+        
+  {
+    "CorrectAnswers": 0,
+    "text": "A 35 year old male present with nausea vomiting and abdominal distension for the past 12 hours this is his first episode on examination - tender swelling in the right groin that cannot be reduced he is healthy with no comorbidities. \n\rWhat is the most appropriate next step?", 
+    "options":[
+      "urgent surgery",
+      "IV fluid and observation",
+      "plain abdominal Xray followed by abdominal CT",
+      "ultrasound of the groin mass",
+      "attempt for drainage under local anesthesia"]
+  },
+        
+  {
+    "CorrectAnswers": 2,
+    "text": "Which of the following is characteristic of familial adenomatous polyposis ?",
+    "options":[
+      "hamartomas polyps",
+      "lipomas",
+      "desmoid tumors",
+      "multiple hemangioma of the large bowel",
+      "intestinal malrotation"]
+  },
+  {    
+    "CorrectAnswers": 1,
+    "text": "Which of the following is true regarding thyroid carcinoma? ",
+    "options":[
+      "Usually bad prognosis.",
+      "Neck radiation during childhood is the most significant risk factor.",
+      "Cytological diagnosis(FNA) is not sufficient.",
+      "In most cases the diagnosis is based on thyroid scan.",
+      "In most cases the tumor is unifocal."]
+  },
+        
+  {
+    "CorrectAnswers": 2,
+    "text": "A 70 year old male with abdominal pain and distention , gastrografin enema demonstrate a -bird peak. \n\rWhat is the an acceptable final treatment after treat of this acute presentation ? ",
+    "options":[
+      "Fiber diet",
+      "Neostigmine",
+      "SigmoidECTOMY", 
+      "Subtotal colectomy",
+      "Total colectomy + IPAA"]
+  },
+        
+  {
+     "CorrectAnswers": 3,
+    "text": "In which of the following patient  prophylactic treatment for venous thromboembolism prevention is indicated :-", 
+    "options":[
+      "A 20 year old healthy male, umbilical hernia repair candidate",
+      "A 35 YEAR OLD healthy male ,hemorrhoidectomy candidate",
+      "A 20 year old female caesarean section candidate",
+      "A 35 year old male , resection of rectum candidate due to malignancy",
+      "A 60 year old male , laparoscopic cholecystectomy candidate"]
+  },
+  {
+     
+    "CorrectAnswers": 2,
+    "text": "A 68 - year - old male is admitted due to epigastric pain , weight loss , and decreased appetite. Comorbidities include controlled hypertension and pre - diabetes. Abdominal CT is suspicious for a 12 cm exophytic space occupying lesion ( SOL ) at the stomach. Biopsy is positive for CD gastrointestinal stromal tumor ( GIST ) with more than 5 mitoses per high power field ( HPF ).\n\r What will the treatment of this patient include ? ",
+    "options":[
+      "Surgery alone",
+      "Chemotherapy alone", 
+      "Gleevec and surgery",
+      "Radiotherapy alone",
+      "Surgery and radiotherapy"]
+  },
+  {
+    
+    "CorrectAnswers": 2,
+    "text": "An 82 years - old male with hypertension and mild arthritis is treated with aspirin and cardiloc , he is independent and aware and is a candidate for right hemicolectomy and single liver metastasis resection due to carcinoma. \n\rAll of the following risk factor predict high surgical mortality in this patient except",
+    "options":[
+      "age above 80",
+      "hypertension",
+      "arthritis",
+      "complex abdominal surgery",
+      "use of blood thinners"]
+  },
+        
+  {
+    "CorrectAnswers": 2,
+    "text": "50 years old male alcoholic suggested for urgent surgery due to perforated ulcer.\n\r Which Of the following is recommended during the pre-operation part ?",
+    "options":[
+      "glipressin",
+      "avilac",
+      "Thiamine",
+      "STEROIDS",
+      "SANDSTATINE"]
+  },
+        
+  {
+     "CorrectAnswers": 2,
+    "text": "A 68-year-old male is admitted due to epigastric pain, weight loss, and decreased appetite. Comorbidities include controlled hypertension and pre - diabetes.\n\r    Abdominal CT is suspicious for a space occupying lesion (SOL) at the stomach.  \n\rWhich of the following is the most diagnostic test? ",
+    "options":[
+      "Complete blood count", 
+      "Full chemistry, including pancreatic enzymes",
+      "Gastroscopy",
+      "Colonoscopy",
+      "Barium swallow"]
+  },
+        
+  {
+    "CorrectAnswers": 4,
+    "text":"An 80-year-old female with hypertension and diabetes arrives to the ER due to two days of rectal bleeding On examination-normal blood pressure and respiratory rate, soft abdomen, cherry red stool on rectal examination. Repeat labs-hemoglobin dropped from 12 to 10 mg/dl. Nasogastric tube-bile content.\n\rShe is admitted for colonoscopy and after 24 hours the bleeding stopped.\n\rWhich is the most probable etiology for this woman`s rectal bleeding?\n\r ",
+    "options":[
+      "Hemorrhoids",
+      "AVM",
+      "Inflammatory bowel disease",
+      "Colon cancer",
+      "Diverticulosis"]
+  },
+        
+  {
+    "CorrectAnswers": 1,
+    "text": "A 75 year old male arrives to ER complaining of abdominal pain, swelling and pain in the right groin, nausea and vomiting. He was diagnosed several years ago with nonreducible right inguinal hernia post medical history- medically treated hypertension, ischemic heart disease status post coronary catherization with stents insertion, congestive heart failure , status post endoscopic aortic aneurism repair, and partially controlled diabetes. His vital signs- blood pressure 145/95, pulse 92, temperature 37.8 °c. Labs-glucose 290 mg/dl.\n\r    How should this patient be prepared with the diagnosis of incarcerated inguinal hernia?",
+    "options":[
+      "Hemodynamic and respiratory stabilization, control diabetes, admit for observation, initial conservative management.",
+      "Hemodynamic and cardiac stabilization, urgent surgery.",
+      "Hemodynamic and respiratory stabilization, control diabetes, plain abdomen x-ray/ contrast CT- consider surgery if bowel obstruction or deterioration on sequel imaging is demonstrated.",
+      "Control diabetes and heart issues, drain abscess and broad spectrum antibiotics, surgery if no improvement.",
+      "Urgent surgery without any delay or preoperative preparation."]
+  },
+        
+  {
+    "CorrectAnswers": 1,
+    "text": "A 2 cm sessile polyp is found in the cecum during routine colonoscopy in a 65-yearold male. The polyp is completely excised and pathology reveals poorly differentiated adenocarcinoma with submucosal invasion. Chest and abdomen CT-no distant metastases.\n\r What is the next step in management? ",
+    "options":[
+      "Genetic work-up",
+      "Formal right hemicolectomy",
+      "Ceacal resection",
+      "Repeat colonoscopy in two months",
+      "Chemotherapy"]
+  },
+  {
+    "CorrectAnswers": 4,
+    "text": "A 35 year old male with Crohn`s disease is now on remission without any treatment. 18 months ago he has been admitted once for disease exacerbation and was treated with 5 mg prednisone and antibiotics for 1 week. The patient is now a candidate for finger nail removal under local anesthesia.\n\r What is the recommended treatment to avoid adrenal insufficiency? ",
+    "options":[
+      "ACTH at the acceptable dose for 3 days",
+      "50 mg hydrocortisone prior to surgery",
+      "100 mg hydrocortisone prior to surgery",
+      "150 mg hydrocortisone prior to surgery",
+      "No need or any special therapy"]
+  },
+        
+  {
+    "CorrectAnswers": 2,
+    "text": "A 48 year old female undergoes abdominal CT following minor trauma, in a motor vehicle accident in the liver the is an 4 cm incidental finding with peripheral nodular enhancement, centripteall fill it. CBC, coagulation panel and tumor markers are all normal.\n\r  WHAT is the next step in treatment?",
+    "options":[
+      "percutaneous biopsy",
+      "resection of the finding",
+      "follow up",
+      "radiofrequency ablation",
+      "colonoscopy to identify the primary tumor"]
+  },
+        
+  {
+    "CorrectAnswers": 0,
+    "text": "55 years old female is diagnosed with 4 cm breast mass & ipsilateral axillary suspicious mass. Breast & axillary biopsies are suspicious for triple negative breast cancer, evaluation for distant metastasis is negative, neo adjuvant chemotherapy is advised.\n\r Which of the following is correct with regard to this treatment?",
+    "options":[
+      "breast conserving surgery may be achieved with avoidance of mastectomy",
+      "sentinel lymph node biopsy is not sufficient and axillary lymph node dissection is indicated even if there is clinical and radiological complete response of axilla",
+      "such tre atment increase survival in this patient",
+      "anti hormonal treatment such tamoxifen has been proved to be effective in this case",
+      "surgery without the need for any kind of chemotherapy can be first line treatment if oncotype diagnosis test will show low risk of recurrence ."]
+  },
+        
+  {
+    "CorrectAnswers": 3,
+    "text": "A 45-year old female is complaining of dysphagia and a feeling that food does not pass, 5Kg weight loss. Achalasia is suspected.\n\rWhich of the following will support the diagnosis? ",
+    "options":[
+      "Severe chest pain and a shape of 'corkscrew esophagus on barium swallow'", 
+      "Food regurgitation, malodor, barium swallow demonstrating diverticulum at the hypopharynx",
+      "Burning chest sensation especially during supine position and gastroscopy demonstrating esophagitis",
+      "No relaxation of the lower esophageal sphincter (LES) on manometry and esophageal dilatation without adequate peristalsis",
+     "Chronic gastric diaphragmatic hernia"]
+  },
+        
+  {
+    "CorrectAnswers": 1,
+    "text": "A 75 year-old female with atrial fibrillation is treated with Coumadin.\n\rShe in a candidate for lumpectomy and sentinel lymph node biopsy due to breast cancer.\n\rWhat are the guidelines for anticoagulation therapy prior to surgery?", 
+    "options":[
+      "Discontinue coumadin for 5 days prior to surgery, no other treatmert needed",
+      "Discontinue coumadin for 5 days prior to surgery and cover wth ciexane (LMNH)", 
+      "Discontinue coumadin for 5 days prior to surgery and cover with asprn",
+      "Continue coumadin",
+      "Switch to aspirin alone a weak before surgery"]
+  },
+        
+  {
+    "CorrectAnswers": 1,
+    "text": "A 42-year-old female with ulcerative colitis is admitted with a fever 39C, abdom?nal pain, tachycardia, elevated WBCs, and bloody stool  Xray- distended colon throughout.\n\r What is the recommended treatment at this point? ",
+    "options":[
+      "Total proctocolectorny with ileal pouch anal anastomosis",
+      "Total abdominal colectomy with end ileostomy",
+      "Total proctocolectomy with end ileostomy",
+      "Total abdominal colectomy with ileorectal anastomosis",
+      "Loop ileostomy"]
+  },
+        
+  {
+    "CorrectAnswers": 0,
+    "text": "A 60-year-old female undergoes routine mammography that demonstrates one duster of suspicious calcifications in the right breast DCIS is diagnosed.\n\rWhen will breast mastectomy be preferred over breast conserving surgery? ",
+    "options":[
+      "In cases when suspicious calcifications for malignancy are present in the entire breast",
+      "In cases of DCIS mastectomy is preferred over breast conserving surgery due to the high local recurrence rate", 
+      "Mastectomy is preferred over breast conserving surgery due  to increased survival rates",
+      "Radiation was not found to be highly effective in DCIS and therefore mastectomy is prefer",
+      "In patients younger than the age of 40 years"]
+  },
+        
+  {
+    "CorrectAnswers": 4,
+    "text": "All of the following are true regarding laparoscopic inguinal hernia repair, except", 
+    "options":[
+      "Laparoscopic repair is preferred in patients with bilateral  inguinal hernias",
+      "Laparoscopic repair is recommended for patients with recurrent inguinal hernias", 
+      "General anesthesia is required for laparoscopic repair",
+      "Laparoscopic repair is especially suitable for physically active patients with small hernias",
+      "The anatomic view is identical in both open and laparoscopic inguinal hernia repairs"]
+  },
+        
+  {
+    "CorrectAnswers": 0,
+    "text": "Which of the following is correct regarding the treatment for gastroesophageal reflux disease ?", 
+    "options":[
+      "A combination of antacid medications and change in life style is sufficient in most patients",
+      "Prolonged PPI is not effective in most patients and anti-reflux surgery is required",
+      "there is no role for antacid medication as reflux is caused by mechanical dysfunction in the lower esophageal sphincter (LES)",
+      "Older patients will more commonly develop reflux is caused by mechanical cancer and therefore there is a need for surgery",
+      "Surgery for reflux is simple and without complications"]
+  }
+],
+    
+ "Gynecology":[
+   {  
+    "CorrectAnswers": 2,
+    "text": "25 years old women present to the emergency room with significant abdominal pain and distention two days post oocyte retrieval .examination reveals a distended abdomen and moderate pelvic fluid. She has decreased urinary output and mild dyspnea.\n\rWhich of the following is the most likely diagnosis?", 
+    "options":[
+      "Ovarian torsion",
+      "Ovarian bleed following retrieval", 
+      "Ovarian hyperstimulation (OHSS)",
+      "Pelvic inflammatory disease",
+      "Ectopic pregnancy"]
+  },
+  {
+    
+    "CorrectAnswers": 4,
+    "text": "A 33 year old primapara, 17 week pregnant, presents to the emergency room with abdominal pain, abdominal sonography results raise a high suspicion of acute appendicitis.\n\rWhich of the following next step mangement of this patient?",   
+    "options":[
+      "abdominal  pelvic CT,",
+      "abdominal  and pelvic MRI",  
+      "admission for observation and surgery if she deteriorates" ,   
+      "admission for intravenous antiobiotic treatment" ,  
+      "surgery  as soon as possible"]
+  },
+  {
+    
+    "CorrectAnswers": 3,
+    "text": "A 37-years-old obese woman on the 25th week of her 6th pregnancy presents to the emergency room with shortness of breath since the morning. Examination at the ER reveals a pulse of 128 bpm, 28 breathes per minute, and saturation of 93%, examination of the limbs was normal.\n\r Which of the following tests is the most sensitive for verifying this patient`s diagnosis? ",
+    "options":[
+      "V/Q scan", 
+      "D-dimer", 
+      "Doppler of the lower extremities",
+      "Spiral CT",
+      "ECG"]
+  },
+  {
+    
+    "CorrectAnswers": 1,
+    "text": "Which of the following describes the karyotype in the picture?\n\r Pic : karyotype image",
+    "options":[
+      "xy, +15, 45", 
+      "XY, +15, 47",
+      "YY, +t15:2, 46",
+      "XY, 46",
+      "XY, +15p, 47"]
+  },
+   
+  {
+   "CorrectAnswers": 4,
+    "text": "A 27 year old single childless healthy woman presents with dysmenorrhea and dyspareunia. Sonography demonstrate an ovarian turbid cyst, with a diameter of 6 cm.\n\r Which of the following treatment is the most appropriate for this patient ? ",
+    "options":[
+      "Two-week treatment with an estrogen agent during the follicular phase",
+      "Monthly GNRH shots",
+      "Copper IUD",
+      "Laparoscopic oophorectomy)",
+      "Continues combined oral contraceptives"]
+  },
+   
+ {
+    "CorrectAnswers": 3,
+    "text": "A 42 year old woman, married and mother of five, 6 months post a normal delivery, present to the emergency room with seizure, head CT raises a suspicion of brain metastases.\n\r    Which of the following tests will contribute the most to finding the primary tumor?     ",
+  "options":[
+      "Brain MRI",  
+      "Liver and renal function test", 
+      "Beta- HCG", 
+      "Gastroscopy",  
+      "EEG"]
+  },
+   
+  {
+    "CorrectAnswers": 4,
+    "text": "25 years old woman menstruates once in 90 days, the bleeding lasts 3-4 days and is accompanied by pain.\n\rWhich of the following is the most appropriate way to describe the condition? ",
+    "options":[
+      "hypoamenorrhea ",
+      "metrorrhagia",
+      "polymenorrhea",
+      "amenorrhea",
+      "oligomenorrhea"]
+  },
+   
+  {
+    "CorrectAnswers": 3,
+    "text": "Which of the following describes the expected number of chromosomes in a partial hydatidiform mole?",  
+  "options":[
+    "diploid", 
+    "haploid",
+    "trisomy",
+    "triploid", 
+    "monosomy"]
+  },
+   
+  { 
+    "CorrectAnswers": 2,
+    "text": "You have been called to the maternity ward due to excessive bleeding of a woman 2 hours after twin delivery.\n\rWhich of the following is the most common etiology of this condition: ",
+    "options":[
+    "Remnant placenta.", 
+    "Vaginal tears.",
+    "Uterine atony.",
+    "Coagulopathy.",
+    "Uterine tear."]
+  },
+   
+  {
+    "CorrectAnswers": 2,
+    "text": "A 39 years old woman after IVF treatments presents to the clinic at week 8 of her pregnancy to verify a normal pregnancy. Sonography reveals the following {image}.\n\r     Which of the following can be deduced from the image about the pregnancy? ",
+    "options":[
+      "Chronicity cannot be determined.",
+      "Two yolk sac point to a Dichorionic pregnancy.",
+      "This is Dichorionic Diamniotic pregnancy.",
+      "Lambda sign points to a monochorionic pregnancy.",
+      "Two separate pregnancy sacs point to a dichorionic pregnancy."]
+  },
+   
+  { 
+   "CorrectAnswers": 3,
+    "text": "A 30-year-old primipara is 40 weeks pregnant with a fetal weight estimation of 3500 gram she is a fully dilated for 4 hours and the head is positioned at s0. Fetal monitor is normal.\n\r Which of the following is the most appropriate management of this delivery? ",
+    "options":[
+      "Oxytocin administration and revaluation with an hour",
+      "Vacuum delivery",
+      "Forceps delivery",
+      "Caesarean section",	 
+      "Intrauterine resuscitation"]
+  },
+   
+  {
+    "CorrectAnswers": 0,
+    "text": "A 60-year-old woman has had amenorrhea for 10 years. She has experienced vaginal bleeding over the last several months and uterine mucosa biopsy demonstrated high grade serous papillary carcinoma.\n\r Which of the following is true regarding this condition? ",
+    "options":[
+      "The most common histology in uterine cancer",
+      "In most cases treatment includes surgery and radiation",
+      "Treatment includes surgery alone with no need for adjuvant radiation or chemotherapy", 
+      "The prognosis of this tumor is less favourable than endometroid tumors", 
+      "Adjuvant chemotherapy is required for tumors stage 3 and greater only"]
+  },
+   
+  {
+    "CorrectAnswers": 1,
+    "text": "A woman presents with severe right abdominal pain 3 weeks following fetal implantation. On examination she is hemodynamically stable, with tendreness at the right lower abdomen and over the right adnexa. Urine beta -HCG is positive. Sonography reveals 12mm thick uterine mu and a 3 -cm round finding adjacent to the right ovary, with a fetal pole and pulse.\n\r Which of the following is the most appropriate recommendation for this patient?",  
+    "options":[
+      "Outpatient follow up of beta levels", 
+      "Admission for close observation",
+      "A single shot of methotrexate",  
+      "Laparoscopic salpingectomy",  
+      "Emergent laparotomy"]
+  },
+   
+  {
+    "CorrectAnswers": 2,
+    "text": "Which of the following patients best fulfills the criteria for menopause? ",
+    "options":[
+      "A 40 years old women with 6 months of amenorrhea", 
+      "A 55 with 2 years of irregular menstruation and heat flashes", 
+      "A 53 years old women with 2 years of amenorrhea", 
+      "A 50 years old women with irregular menstruation and FSH-40 mU/ml", 
+      "A 48 after unilateral oophorectomy"]
+  },
+   
+  {
+    "CorrectAnswers": 4,
+    "text": "A 62 year old woman presents with vulvar itch that bruises her examination reveals edema and significant erythema with uniting of white plaques biopsy reveals flattening of the papillae and deep lymphatic infiltration.\n\rWhich of the following is the next step in managing this case?",  
+  "options":[
+      "PET CTB",
+      "vulvectomy",  
+      "vestibulectomy",  
+      "topical injection of alcohol",  
+      "topical steroids ( maximal potency)"]
+  },
+   
+  {
+    "CorrectAnswers": 4,
+    "text": "A 12 year old pre-pubertal healthy girl presents to the emergency room with her parents with acute left lower abdominal pain, nausea, vomiting. Initial ER evaluation including vital signs and physical examination is normal, with soft abdomen and no peritonitis abdominal sonography reveals an enlarged left ovary with poor perfusion.\n\r Which of the following is the most appropriate next step? ",
+    "options":[
+      "Abdominal-pelvic CT", 
+      "CBC and CRP", 
+      "Tumor markers",  
+      "Admission for observation and pain management",  
+      "Complete of fast and laparoscopic surgery"]
+  },
+   
+  {
+    "CorrectAnswers": 1,
+    "text": "A 25-year old woman on her 6th pregnancy, the routine fetal weight estimation at 32 week was below the 3rd percentile.\n\rWhich of the following is a possible explanation of this finding? ",
+    "options":[
+      "Maternal influenza infection", 
+      "Filamentous insertion of cord", 
+      "Gestational diabetes", 
+      "Posterior placenta", 
+      "Multiparty"]
+  },
+   
+  {
+    "CorrectAnswers": 0,
+    "text": "A 15 year old generally healthy and well-developed girl, who hasn`t started menstruating yet, present to the emergency room with her parents due to several day of lower abdominal pain.\n\r    She has been complaining of intermittent abdominal pain for the last year. Evaluation in the ER reveals hemodynamical stability and a very sensitive lower abdomen. Abdominal sonography reveals hematocolpus and hematorrhea with normal appendix.\n\rWhich of the following is the best diagnostic test?", 
+    "options":[
+    "Physical examination",  
+    "MRI", 
+    "Colposcopy", 
+    "Hysteroscopy", 
+    "Laparoscopy"]
+  },
+   
+  {
+    "CorrectAnswers": 4,
+    "text": "28 years old woman on her 8th pregnancy presents with the following routine lab results ( table )( טבלה )<table>    <tr><td>CMV IgM</td><td> (+) positive </td></tr>    <tr><td>CMV IgG</td><td> ( +) positive</td></tr>    <tr><td>CMV avidity</td><td> low</td></tr>    </table>\n\r    What is the significance of this results?",  
+    "options":[
+      "normal results reflect an old CMV infection , there is no need for further evaluation.",  
+      "the test was taken prematurely and needs to be repeated in 1 month",  
+      "periconceptual CMV infection .", 
+      "re infection with CMV which is NOT associated with fetal complications",  
+      "new CMV infection , targeted sonographic evaluation is recommended ."]
+  },
+   
+  { 
+    "CorrectAnswers": 0,
+    "text": "25 years old woman on her 18th week pregnancy present with intolerance to heat tachycardia, nausea, lab results revealed T4 increase, and low TSH.\n\rWhich of the following is the most common complication of this condition during pregnancy?",
+    "options":[
+      "preeclampsia",
+      "cardiomyopathy",
+      "coma",
+      "IUGR",
+      "cardiac failure"]
+  },
+   
+  {
+    "CorrectAnswers":  1,
+    "text": "A 42 year old past C/S woman on her 2nd pregnancy present to the delivery room at 39+5 weeks with contractions. Sonography reveals frank breech presentation and an estimated fetal weight of 3700 gr.\n\r    The woman wishes to deliver vaginally.\n\rWhich of the following is a contraindication for vaginal delivery in this case?",
+    "options":[
+      "Estimated fetal weight", 
+      "Frank breech presentation", 
+      "A previous cesarean section", 
+      "Maternal age", 
+      "Gestational age"]
+  },
+   
+  {
+    "CorrectAnswers": 3,
+    "text": "Which of the following is considered a complication of uncontrolled gestational diabetes mellitus?",
+    "options":[
+      "Oligohydramnios", 
+      "Intrauterine growth retardation ( IUGR )", 
+      "Neonatal hyperglycemia", 
+      "Neonatal hyperbilirubinemia", 
+      "Fetal brain malformations"]
+  },
+   
+  {
+    "CorrectAnswers":  2,
+    "text": "A 28 year- old is trying to conceive over the last 18 months. She has no past surgeries, no history of PID. Her partner has 2 children from a previous marriage. Her menstruation is irregular ( once in 6 months ), and she has acne and hirsutism.\n\rWhich of the following is the most appropriate line of treatment?",
+    "options":[
+      "clomiphene citrate shots for 2 weeks .", 
+      "Gonadotropins for hormonal stimulation.", 
+      "insemination during a natural cycle.", 
+      "IVF without ICSI.", 
+      "one tablet of letrozole for 5 days"]
+  },
+   
+  {
+    "CorrectAnswers": 3,
+    "text": "A 32 year old normally developed woman present for routine checkup she describes amenorrhea for the last 18 months she has never been pregnant had regular menstruation and no gynecological issues in past.\n\rWhich most plausible explanation for her amenorrhea?",
+    "options":[
+      "mullarian", 
+      "turner", 
+      "asherman", 
+      "eating disorder", 
+      "diabetes"]
+  },
+   
+  {
+    "CorrectAnswers": 3,
+    "text": "50 years old women present with postcoital bleeding. PAP-HGSIL colposcopy was performed and acetic acid dye revealed area of acetowhite epithelial and punctuation. Positive schiller test and normal histology on cervical biopsy.\n\rWhich is the most appropriate step in imaging this patient?", 
+    "options":[
+      "Routine follow up",  
+      "HPV typing",  
+      "Repeat PAP in 3-6 months",  
+      "Diagnostic conization", 
+      "Total hysterectomy"]
+  },
+   
+  {
+    "CorrectAnswers": 3,
+    "text": "39 year old female, 38 week pregnant and had 3 pregnancies present with general malaise BP in ER 170/100 on 3 tests, urine protein +3, treatment for hypertension started.\n\rWhat is the next step?",
+    "options":[
+      "Decrease blood pressure and follow up at 40 weeks",  
+      "Completing 24 h urine test for protein",  
+      "Admission to intensive care unit for blood pressure management",  
+      "IV magnesium and delivery",  
+      "Emergent c section"]
+  },
+   
+  {
+    "CorrectAnswers": 3,
+    "text": "A routine pelvic ultrasound of a healthy and an asymptomatic 45 year old woman demonstrated the ed ovarian finding showed in the attached image, CA-125 was normal.\n\rWhich of the following is the most appropriate recommendation for this woman?",
+    "options":[
+      "Repeat physical examination and sonogram in 3 months",  
+      "Total body PET-CT", 
+      "Percutaneous aspiration of the fluid for cytology",  
+      "Laparoscopic excision",  
+      "Hysterectomy and salpingo-oophorectomy"]
+  },
+   
+  {
+    "CorrectAnswers": 4,
+    "text": "65 Years old women has had laparoscopy for oophorectomy, admitted due to complex cyst\n\rFinal pathology reveal SEROUS PAPILLARY CARCINOMA.\n\rWhat is the next step in management?",
+    "options":[
+      "follow up in 3 month.",
+      "PET-CT.",
+      "COMBINED CHEMOTHERAPY.",
+      "AVASTIN.",
+      "STAGING SURGERY."]
+  },
+   
+  {
+    "CorrectAnswers": 0,
+    "text": "elevated Alpha feta protein (AFP) levels were found in the second trimester screening.\n\rWhich of the following test should be offered to affirm or rule out neural tube defects?",
+    "options":[
+      "targeted sonography", 
+      "Chorionic villous sampling", 
+      "Amniocentesis", 
+      "Non invasive prenatal testing NIPT", 
+      "Fetal brain MRI"]
+  },
+   
+  { 
+    "CorrectAnswers": 4,
+    "text": "A 42 year old generally healthy woman turns for consultation regarding birth control. She smoke 10 cigarettes per day.", 
+    "options":[
+      "there is no need to birth control at her age.", 
+      "combined oral contraceptive.",
+      "vaginal ring.", 
+      "periodic abstinecs.", 
+      "leonvgestrel releasing intrauterine device."]
+  }    
+],
+    
+ "Psychiatrics":[
+    
+   {
+    "CorrectAnswers": 0,
+    "text": "A 46 year old male is admitted to the orthopedic department, 3 days after suregery he develops restlessnes and looks scared even without external stimuli. He is positive for alcohol abuse for many years.\n\rWhich of the following is the most appropiate treatment?",
+    "options":[
+      "lorazepam",  
+      "haloperidol", 
+      "zopiclone", 
+      "trazodone",  
+      "paroxetine"]
+  },
+   
+  { 
+    "CorrectAnswers": 0,
+    "text": "A 65-year-old male arrives to the ER complaining of abdominal pain and severe constipation for a week, on examination - distended abdomen and mild tenderness.\n\rWhich of the following medication is the most likely the cause of these symptoms?",
+    "options":[
+      "clozapine",  
+      "risperidone",  
+      "paliperidone",  
+      "diazepam",  
+      "brotizolam"]
+  },
+   
+  {    
+    "CorrectAnswers": 0,
+    "text": "A 25 year old male arrives to the ER with fever of 41.6, restlessness, muscle rigidity and mutism. Labs - leukocytosis and elevated CPK. He reports that a week ago he started treatment with long acting injection due to his first  psychotic episode.\n\rAll of the following are appropriate treatment for this condition except?",
+    "options":[
+      "propranolol",                   
+      "dantrolene",  
+      "levodopa",  
+      "lorazepam",  
+      "amantadine"]
+  },
+   
+  {    
+    "CorrectAnswers": 0, 
+    "text": "A 20 year old female is admitted for evaluation following suicide attempt by swallowing 20 pills because of break up from her male partner on examination cut scars on her arms she reports cutting her self to feel pain that will mask her loneliness feeling. She has anger outbursts bulimic eating episodes, frequent mood changes and uncontrollable impulsive behavior.\n\rWhich of is the most appropriate treatment?",
+    "options":[
+      " dialectic behavior therapy",                  
+      "hypnosis therapy",  
+      "social skills rehabilitation",  
+      "biofeedback",                                          
+      "family group therapy"] 
+  },
+   
+  {    
+    "CorrectAnswers": 1,
+    "text": "An 84-year old healthy male with no previous mental illness is brought to the ER by his family`s request. According to them in the past month 'He is deteriorating, looks sad, does not take interest in anything including his grandchildren that he loves, decreased function, and barely keeps his hygiene'. On examination - time, place, and identity oriented, answers laconically and to the point, looks sad, and states that he is a burden on his family and that he is tired of living.\n\rAll of the following are expected findings, except :", 
+    "options":[
+      "FDepressive affect that does not respond to external stimuli",  
+      "FConfabulations and catastrophic reactions",  
+      "FDespair , guilt , and lack of self esteem", 
+      "FMultiple answers of 'I don`t know'",  
+      "Feeling without purpose , and suicide thoughts."]
+  },
+   
+  {    
+    "CorrectAnswers": 2,
+    "text": "A 19 year old female is treated in the past two weeks with venlafaxine and lithium due to depression she is brought to the ER by her parents and admitted due to fever, tremor, constant diarrhea and extreme restlessness. On examination - rigidity, hyperactive reflexes and myoclonic jerks.\n\rWhich of the following is the most likely explanation to her symptoms?",
+    "options":[
+      "FAkathisia",   
+      "FCatatonia",  
+      "FSerotonin syndrome",  
+      "FDystonia",  
+      "FNeuroleptic malignant syndrome"]
+  },
+   
+  {    
+    "CorrectAnswers": 2,
+    "text": "During a psychiatric evaluation of a 55 year old femle shi is asked for her adress. In response she jumps on the chair, takes off her pants, and sings the national anthem.\n\rWhich of the following is correct regarding her disorders?",
+    "options":[
+      "Fconscious impairment",  
+      "Fthought process impairment", 
+      "Fimpaired social judments", 
+      "Fimpaired insight",
+      "Fimpaired readlity testing"]
+  },
+   
+  {     
+    "CorrectAnswers": 1,
+    "text": "A 27 year old male teacher complains of 'constantly depressed mood forever'. He says that life is duty that is hard to hold on to. He complains of nervousness and lack of satisfaction in everything he does. Many times, he thinks he is a failure and is feeling guilty for not achieving more at work and at his studies. Because  of this feeling he minimizes his social activities and almost never enjoys anything. He does not seem to find passion in anything including his relationship.\n\rWhat is the most likely diagnosis?",
+    "options":[
+      "Fbipolar disease, manic type", 
+      "FDysthymia",  
+      "Fschizophreniform disorder",  
+      "Fparaphilic disorder",  
+      "Fmajor depressive disorder with psychotic features"]
+  },
+   
+  {    
+    "CorrectAnswers": 3,
+    "text": "A 40 year old male`s evaluation reveals a prolonged pattern of suspiciousness, inability to trust people, great envy to his wife, and constant suspicion that she is unfaithful without any prove. A week ago, when repairing his car, he blamed the business owner of cheating him and charging more money than needed. Similar argument occurred with the air conditioning technician and his land lord. He writes numerous complaint letters to the city mayor.\n\rWhat is the most likely diagnosis?",
+    "options":[
+      "Fschizoid personality disorder.", 
+      "Fhistrionic personality disorder.", 
+      "Fdependent personality disorder.", 
+      "Fparanoid personality disorder", 
+      "Fschizotypal personality disorder."]
+  },
+   
+  {    
+    "CorrectAnswers": 1,
+    "text": "A 45 year old male complain of stress, discomfort feeling, and tension that increase when he leaves his house, on buses, in the mall, and on flights, because of this he stopped flying overseas and in the past year he goes to the mall only accompanied by another person, usually his wife.\n\rWhat is the most likely diagnosis?",
+    "options":[
+      "Fobsessive compulsive disorder.", 
+      "Fagoraphobia disorder", 
+      "Fgeneral anxiety disorder.", 
+      "Fsocial anxiety disorder.", 
+      "Fspecific phobia"]
+  },
+   
+  {    
+    "CorrectAnswers": 4,
+    "text": "All the following are vulnerability factors for post traumatic stress disorder except",  
+    "options":[
+      "Fmultiple recent stresses episodes",  
+      "Frecent alcohol use", 
+      "Fborderline personality disorder",  
+      "Fvulnerability to develop a psychiatric disorder", 
+      "Fmale gender"]
+  },
+   
+  {    
+    "CorrectAnswers": 1,
+    "text": "Which of the following symptoms is most characteristic of functional neurological symptoms disorder (conversion disorder)", 
+    "options":[
+      "Fsevere anxiety and psychomotor restlessness",  
+      "Fsymptoms that imitate neurological disease due to psychological conflicts and mental stressors",  
+      "Fanxiety following loss of organ function", 
+      "Fmalingering  for secondary gain",  
+      "Fmemory loss without any organic finding"]
+  },
+   
+  {    
+    "CorrectAnswers": 4,
+    "text": "A 38-old male married with two children, work for the past 15 years as an engineer and is described as a caring and devoted family man. Since young age he reports washing his hand hundreds of time a day and also describes several cleaning and tidiness rituals that take up to two hours of his time each day. Since his twins were born he describes repeating compulsive thoughts that scare him very much that he might hurts his kids with a knife. He is reported to take care of his kids well but refuses to enter the kitchen because of the knives and is scared to be left with kids alone. He seeks psychiatric help due to his condition.\n\rWhat is the most appropriate medical treatment?",
+    "options":[
+      "FPhenelzine", 
+      "FRisperidone ", 
+      "FDiazepam",  
+      "FPerphenazine",  
+      "FFluvoxamine"]
+  },
+   
+  {    
+    "CorrectAnswers": 0,
+    "text": "During psychiatric evaluation a schizophrenic patient reports of a suicide attempt he planned to jump off a bridge but eventually retreated. The psychiatrist respond you are telling me something very significant and dangerous. I am very happy you retreated. What stopped you from jumping? The patient replies with an inadequate smile 'There was a small fence'.\n\rWhat is the represented psychiatric status?",
+    "options":[
+      "Fconcrete thinking", 
+      "False thoughts", 
+      "Fassociative loosening", 
+      "Flogic disorder", 
+      "Fperception disorder"]
+  },
+   
+  {    
+    "CorrectAnswers": 3,
+    "text": "The consulting psychiatrist called to the department of surgery to evaluate a patient who threatens to commit suicide. On examination the patient reports being married with two children, started drinking alcohol 10 years ago and was never under psychiatric treatment. He reports feeling weak with sever pain.\n\rWhich of the following is correct with regards to the suicide evaluation of this patient?",
+    "options":[
+      "Fphysically weak patients do not usually act on their threat to suicide",  
+      "Fthe risk of suicide is higher in married men compared to singles", 
+      "Fvery low suicide risk since the patient was never under psychiatric treat", 
+      "Falcohol addiction increases suicide risk", 
+      "Fsevere pain decreases suicide risk"]
+  },
+   
+  {
+    "CorrectAnswers": 1,
+    "text": "Which of the following is correct regarding the prognosis of patients that were diagnosed with their first brief psychotic disorder?", 
+    "options":[
+      "FAbout 70% will develop schizophrenia in the future.", 
+      "FAbout 50% will develop major psychiatric disorders in the future.", 
+      "F60-70% will develop obsessive compulsive disorder in the future.", 
+      "FAbout 80% will develop bipolar disease in the future.", 
+      "FAbout 95% will develop major psychiatric."]
+  },
+
+   
+  {    
+    "CorrectAnswers": 0,
+    "text": "A 13-year-old boy is brought for psychiatry evaluation. He has known diagnosis of mental and development retardation. On examination - low stature, elongated head and ears, articular laxity, and enlarged testicles. \n\rWhich of the following is the most likely psychiatric disorder?",
+    "options":[
+      "FAutism spectrum disorder.", 
+      "FSchizophrenia.",
+      "FEating disorder.",
+      "FBipolar disorder.", 
+      "FHoarding disorder."]
+  },
+   
+  {
+    "CorrectAnswers": 1,
+    "text": "A 25-year old male is admitted to the psychiatric department and is treated with perphenazine (Perphenan) at a dose of 16 mg twice daily for a week without any other treatment. He complains of restlessness, inability to sit at one place, and unpleasant sensation of the muscles that make him constantly move.\n\rWhat is the most appropriate initial treatment?",
+    "options":[
+      "FAdd biperiden ( Dekinet )",  
+      "FAdd propranolol ( Deralin )",  
+      "FStop perphenazine ( Perphenan )", 
+      "FAdd clonazepam ( Clonex )", 
+      "FAdd vitamin E"]
+  },
+   
+  {    
+    "CorrectAnswers": 3,
+    "text": "A 48 year old male with no psychiatric back ground, married with 3 children, is brought to ER following a suicide attempt with swelling pills immediately after the attempt he called for an ambulance and asked to be brought to the ER since he was afraid that something could happen to him. He tells the ER psychiatrist that he decided to take pills after he found out he was going to get fired from work and now he regrets his suicide attempt and aggress to continue psychiatric follow up and treatment, he and his family request to discharge home saying 'Don`t worry we are a supportive family and we will observe him and take care of everything.'\n\rWhat is the most appropriate approach and why?",
+    "options":[
+      "FADMIT,BY LAW EVERY PERSON WITH SUICIDE ATTEMPTE NEED TO BE ADMITTED",  
+      "FCAN BE DISCHARGED HE IS AT LOW RISK BECAUSE HE IS ADULT", 
+      "FCAN BE DISCHARGED LOW RISK FOR ANOTHER SUICIDE ATTEMPTE SOON AFTER HIS PREVIOUS ONE",  
+      "FCAN BE DISCHARGED HE HAS GOOD HOME SUPPORT SYSTEM", 
+      "FCAN BE DISCHARGED THE SUICIDE WAS IMPULSIVE"]
+  },
+   
+  { 
+    "CorrectAnswers": 0,
+    "text": "All of the following are specifiers for major depression except:-", 
+    "options":[
+      "Fhoarding characteristics",  
+      "Fpsychotic characteristics", 
+      "Fcatatonic  characteristics", 
+      "Fbeginning of symptoms following delivery",  
+      "Fseasonal pattern symptoms"]
+  }
+]
+}

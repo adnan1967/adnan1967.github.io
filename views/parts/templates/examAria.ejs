@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<%- include('head.ejs') -%>
+
+<body>
+    
+    <%- include('authenticatedUser.ejs') %>
+
+    <% 
+    var subjects = Object.keys(exam);
+    var questions = {};
+    
+    let loop = 0;
+    for (let subject of subjects) {
+    questions[subject] = exam[subject].length;
+    loop++;
+    } %>
+
+    <% let initialValue=typeof(qNumb)=='undefined' ; %>
+    <%if (initialValue) { %>
+        <% var qNumb=0; %>
+        <% var subNumb=0; %>
+    <% } else { %>
+        <% qNumb++; %>
+    <% } %>
+
+    <% var subject=subjects[subNumb]; %>
+
+    <% if (qNumb==exam[subject].length ) { %>
+        <% qNumb=0; %>
+        <% subNumb++; %>
+        <% if (subNumb==subjects.length){ %>
+            <% subNumb=0; %>
+        <% } %>
+    <% } %>
+    
+    <% var subject=subjects[subNumb]; %>
+    
+    <% var examQuestions=exam[subject]; %>
+    <% var question=examQuestions[qNumb]; %>
+
+    <% var images = []; %>
+    
+    <% var isImage = question.IMG != 'undefined'; %>
+    <% if (isImage) { %>
+        <% if (Array.isArray(question.IMG)) {   %>
+            <% for (let img of question.IMG) { %>
+                <% images.push(img); %>
+            <% } %>
+        <% } else { %>
+            <% images.push(question.IMG); %>
+        <% }  %>
+    <%  }  %>
+
+
+    <% var text = question.text.replace(/(\r\n|\r|\n)/g, '<br>'); %>
+    
+    <% var opt = []; %>
+    <% for (let op of question.options) {  %>
+    <%    opt.push(op); %>
+    <% } %>
+<div class="container w-75">
+    <h2 class="text-center text-bold text-light bg-primary rounded m-2" id="subbject"><%= subject %></h2>
+
+    <% var nextParams = "/nextquest?qNumb="+qNumb+"&subNumb="+subNumb+"&subject="+subject %>
+    <form action=<%= nextParams %> method='POST'>
+        <h5>Q<%= qNumb + 1  %></h5>
+        <h5 class="teal text-primary"> 
+            <%- text %>
+            
+            <% if (images[0] != undefined) { %> 
+                <div class="mt-4">
+                <% for (let image of images) { %>             
+                        <img class="mx-4" src="<%= image %>" alt="" width="200rem" height="200rem"/>
+                     
+                <% } %>
+                </div> 
+            <% } %>
+            <br> <br>
+            
+            <div class="container">  
+                <% let i =0; %>
+                
+                <% for(let op of opt) { %>
+                <div>                   
+                    <input type="radio" name="userAns" value=<%= i + 1 %> /> <%= op %>
+                    <% i++; %>
+                </div>
+                <% } %>            
+            
+            </div>
+        </h5>
+        <div>
+            <button type="submit" class="btn btn-primary">Next</button>
+            <a href="/validate" type="button" class="btn btn-success float-right mx-5">Finish</a>
+        </div>
+    </div> 
+    
+    
+</form>
+</body>
+
+<footer>
+<%- include('footer.ejs') -%>
+</footer>
+
+</html>

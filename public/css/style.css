@@ -1,0 +1,85 @@
+:root {
+    --boxShadow: rgb(55, 78, 85);
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+body{
+    background-image: linear-gradient(140deg, #a7c2e8 0%, #cad3ed 50%, #ecf3f9 75%);
+    font-family: "Poppins", sans-serif;
+}
+
+.mainBody {
+    margin-top: 6rem;
+}
+
+#topper {
+    /*margin-left: 25%;*/
+    background-color:cadetblue ;
+    color:bisque;
+    
+}
+
+#start {
+    margin: 5% 45% ;
+    text-align: center;
+    background: linear-gradient(to bottom right, rgba(222, 228, 235, 0.9), rgba(124, 232, 246, .6));
+    border: 3px solid var(--pink);
+    color: var(--danger);
+    margin: 5% 45%;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 1rem;
+    font-weight:bold;
+}
+
+#signin{
+    width: 50%;
+    background: linear-gradient(to bottom right, rgba(53, 55, 58, 0.9), rgba(124, 232, 246, .6));
+    border-radius: 0.5rem;
+    box-shadow: 1px 1px 10px var(--boxShadow);
+    color: rgb(241, 233, 196);
+    margin: 0% 25%;
+    
+}
+
+#shadow{
+    box-shadow: 1px 1px 10px var(--boxShadow);
+    color: darkblue;
+}
+
+#aboutH1 {
+    margin: 5% 15%;
+}
+
+#centerButton{
+    margin: 5% 45%;
+    width: 12rem;
+    padding: 1rem;
+}

@@ -1,0 +1,86 @@
+
+<div class="container">
+    <% if (authenticatedUser) { %>
+        <%- include('exam.ejs') %>        
+    <%} else { %>
+    <h3 class="text-light text-center bg-primary mb-5">Sign in to get started with the question</h3>
+    <div>
+        <section class="lead text-center text-info my-2">Getting registered to our site, you will be eligible to get the previous tests of medicine for the israeli medical certificate.</section>
+        <nav class = 'lead mt-2 mb-0  text-center text-secondary'>Press this button to get a sample Question</nav>
+        
+        <button class="btn btn-primary" data-toggle="modal" data-target="#sampleQuestion" id="centerButton">Get Question</button>
+    </div> 
+    <% } %>
+
+    <% if (answer == 'correct') { %>
+        <h4 class="text-success">Your Answer is correct</h4>
+    <% } else { %>
+        <% if(answer == 'wrong'){ %>
+            <h5 class="text-danger">
+               The correct answer is : 
+                <span class="text-success">
+                    <% let correctIndex = exam.Internal_Medicine[0].CorrectAnswers ; %>
+                    <%= exam.Internal_Medicine[0].options[correctIndex] %>
+                </span>
+            </h5>
+        <% } %>
+    <% } %>
+    <% answer = 'undefined'; %>
+</div>
+
+<!-- Modal body goes here -->
+<div class="modal fade" 
+     id="sampleQuestion"
+     tabindex="-1"
+     aria-labelledby="modal-title"
+     aria-hidden="true">
+  <div class="modal-dialog"> <!--is the white buble that pops up in the screen-->
+    <div class="modal-content"><!--The contents inside the bottle-->
+        <div class="modal-header">
+            <div class="modal-title bg-primary text-light text-center w-100 mx-1 p-1 rounded" id="modal-title">
+                Sample Question
+            </div>
+            <div>
+            <button type="button" class="btn-close bg-primary rounded border-primary text-light" data-dismiss="modal" aria-label="Close"><bold>X</bold></button>
+            </div>
+        </div>
+        <div class="modal-body teal mb-2">
+            <div class="mx-5 my-2 p-1 bg-dark w-75 text-center justify-content-center text-light rounded">
+                Internal_Medicine
+            </div>
+            <b>
+                <% let question = exam.Internal_Medicine[0].text.replace(/(\r\n)/g, '<br>');%>
+                <%=  question %> 
+            <hr/>
+            <form action="/validate" method="post">
+                <div class="m-1">
+                    <input type="radio" id="answer1" name="userAns" value=1>
+                    <label for="answer1"> 1. <%= exam.Internal_Medicine[0].options[0] %></label>
+                </div>
+                <div class="m-1">
+                    <input type="radio" id="answer2" name="userAns" value=2>
+                    <label for="answer1"> 2. <%= exam.Internal_Medicine[0].options[1] %></label>
+                </div>
+                <div class="m-1">
+                    <input type="radio" id="answer3" name="userAns" value=3>
+                    <label for="answer1"> 3. <%= exam.Internal_Medicine[0].options[2] %></label>
+                </div>
+                <div class="m-1">
+                    <input type="radio" id="answer4" name="userAns" value=4>
+                    <label for="answer1"> 4. <%= exam.Internal_Medicine[0].options[3] %></label>
+                </div>
+                <div class="m-1">
+                    <input type="radio" id="answer5" name="userAns" value=5>
+                    <label for="answer1"> 5. <%= exam.Internal_Medicine[0].options[4] %></label>
+                </div></b>
+            
+            
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    </div>
+</div>
+

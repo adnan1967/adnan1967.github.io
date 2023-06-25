@@ -1,0 +1,14 @@
+<div class="mainBody">
+    <h5 style="color: chocolate; font-weight: 600; " class="ml-1">Welcome: 
+        <% if(authenticatedUser){ %>
+            <%= authenticatedUser %>
+                <% } else { %>
+                    Guest
+                    <% } %>
+    </h5>
+    <% if (message !=null) { %>
+        <h5 style=color:red>
+            <%= message %>
+        </h5>
+        <% } %>
+</div>

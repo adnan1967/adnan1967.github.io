@@ -1,0 +1,67 @@
+<nav class="navbar rounded fixed-top navbar-expand-lg navbar-light bg-primary mx-1">
+    <div class="container">
+        <span class="navbar-brand rounded ">
+            <img class="rounded mb-1 mx-3 bg-light" 
+                 src="/img/logoMed.png" 
+                 height="30rem" 
+                 width="45rem" 
+                 alt="logo">
+            <p class="text-center muted mb-0 h6" 
+               style="color: darkslateblue;">
+              Medi Quest
+            </p>
+        </span>
+
+        <button class="navbar-toggler" 
+                type="button" 
+                data-toggle="collapse" 
+                data-target="#navBarNav" 
+                aria-controls="navBarNav"
+                aria-expanded="false" 
+                aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse " 
+             id="navBarNav">
+            <ul class="navbar-nav  col-12 col-md-8">
+                <li class="nav-item ">
+                    <a href="/" class="nav-link">
+                        <div>
+                            <i class="fa fa-home fa-fw"></i>
+                            <span>Home</span>
+                            <span class="sr-only">(current)</span><!-- sr-only is used only for screen readers-->
+                        </div>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="/features" 
+                       class="nav-link">
+                        <div>
+                            <i class="fa fa-sharp fa-solid fa-stethoscope"></i>
+                            <span>Features</span>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+            <div class="container">
+                
+                <% if (authenticatedUser) { %>    
+                    <a  type="button" 
+                        class=" btn text-white bg-success" 
+                        href='/logout'>
+                    Logout
+                    </a>
+                <% } else { %>
+                    <a  type="button" 
+                        class=" btn text-white bg-success" 
+                        href='/signin'>
+                    Sign in
+                    </a>
+                <% } %>
+            </div>
+        </div>
+    </div>    
+</nav>
+
+

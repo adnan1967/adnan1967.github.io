@@ -1,0 +1,38 @@
+<%- include('head.ejs') -%>
+<%- include('header.ejs') -%>
+<%- include('authenticatedUser.ejs') -%>
+
+<div class="container">
+    <h1>Your Score : 
+        <% if ( correctlyAnswered < 105){ %>
+            <span style="color: red"><%= correctlyAnswered %>/210</span></h1>
+        <% } else { %>
+            <span style="color: green"><%= correctlyAnswered %>/210</span></h1>
+        <% } %>
+</div>
+
+<div class="container">
+    <table class="table">
+        <thead class="thead-light text-center" >
+                        <td class="bg-light"><h4>Question</h4></td>
+                        <td class="bg-light"><h4>Your Answer</h4></td>
+                        <td class="bg-light"><h4>Correct Answer</h4></td>
+                    
+        </thead>
+        <tbody class="table_body">
+            <% for (let content of tableContent) { %>
+                <tr>
+                    <td><%= content.text  %></td>
+                    <td class="text-danger text-center"><h6><%= content.answered  %></h6></td>
+                    <td class="text-success text-center"><h6><%= content.correctAnswer  %></h6></td>
+                </tr>
+            <%  } %>
+            
+        </tbody>
+    </table>
+</div>
+
+
+
+
+<%- include('footer.ejs') -%>

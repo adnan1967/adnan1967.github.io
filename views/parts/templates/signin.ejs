@@ -1,0 +1,32 @@
+<%- include('head.ejs') -%>
+<%- include('header.ejs') -%>
+<%- include('authenticatedUser.ejs') -%>
+
+<% if (messages.error) { %>
+    <h5 style="color:red"><%= messages.error %></h5>
+<% } %>
+
+<div class="container p-1" id="signin">
+        <h1 >Sign In</h1><hr style="color:white;"/>
+        <form action="/login" method="post">
+            <div class="form-floating mx-2">
+                <label  class="form-label" for="email">Email:</label>
+                <input  type="email" name="email" id="email" class="form-control mb-2" placeholder="Enter email here" required />
+            </div>
+            <div class="form-floating mx-2">
+                <label for="password">Password:</label>
+                <input class="form-control mb-2" type="password" name="password" placeholder="enter password" id="password" required/>
+                
+            </div>
+            
+            <button type="submit" class="btn btn-primary my-1 mx-2">Submit</button>
+        </form>
+        <hr>
+    <span class="mx-2">New users </span>
+    <a href="/signup" type="button" class="btn btn-default mb-1 p-1" id="shadow">Sign Up</a>
+
+</div>
+
+
+  
+<%- include('footer.ejs') -%>
